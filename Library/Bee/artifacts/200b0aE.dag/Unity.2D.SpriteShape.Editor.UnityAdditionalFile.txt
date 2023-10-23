@@ -1,1 +1,1 @@
-/Users/aspisov/top-down platformer
+/Users/aspisov/isometric_platformer
