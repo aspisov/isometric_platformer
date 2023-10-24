@@ -41,9 +41,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets/_Scripts/GameManagerScript.cs" />
+     <Compile Include="Assets/_Scripts/Player/PlayerJumpState.cs" />
+     <Compile Include="Assets/_Scripts/Player/PlayerRunState.cs" />
      <Compile Include="Assets/_Scripts/PointBehaviour.cs" />
      <Compile Include="Assets/_Scripts/CameraFollow.cs" />
-     <Compile Include="Assets/_Scripts/PlayerController.cs" />
+     <Compile Include="Assets/_Scripts/Player/PlayerIdleState.cs" />
+     <Compile Include="Assets/_Scripts/Player/PlayerFallState.cs" />
+     <Compile Include="Assets/_Scripts/Player/BaseState.cs" />
+     <Compile Include="Assets/_Scripts/Player/PlayerController.cs" />
      <Compile Include="Assets/_Scripts/PlatformMovement.cs" />
      <Compile Include="Assets/_Scripts/DisappearingPlatformBehaviour.cs" />
      <Compile Include="Assets/_Scripts/CheckpointLogic.cs" />
