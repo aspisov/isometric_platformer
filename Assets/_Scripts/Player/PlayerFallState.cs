@@ -13,7 +13,7 @@ public class PlayerFallState : BaseState
 
     public override void UpdateState(PlayerController player) {
         timer += Time.fixedDeltaTime;
-        player.transform.position -= new Vector3(0, 0.05f, 0);
+        player.transform.position -= new Vector3(0, 3f, 0) * Time.deltaTime;
         if (timer >= 0.5)
         {
             player.Reset();

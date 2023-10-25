@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,6 +12,7 @@ public class PlayerController : MonoBehaviour
     public float velocity = 1f;
     public bool isColliding = true;
     public bool jumpIsPressed = false;
+    public bool interactIsPressed = false;
 
     private Vector2 respawnPos;
 
@@ -23,6 +25,7 @@ public class PlayerController : MonoBehaviour
     public PlayerRunState runState = new PlayerRunState();
     public PlayerJumpState jumpState = new PlayerJumpState();
     public PlayerFallState fallState = new PlayerFallState();
+    public PlayerElevateState elevateState = new PlayerElevateState();
 
     // Start is called before the first frame update
     void Start()
@@ -56,9 +59,11 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private void EndJump() {
-        SwitchState(idleState);
+    private void OnInteract() {
+        interactIsPressed = true;
     }
+
+    private void EndJump() => SwitchState(idleState);
 
     public void MoveBy(Vector3 distance)
     {
@@ -67,9 +72,7 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    public void SetRespawnPosition(Vector2 pos) {
-        respawnPos = pos;
-    }
+    public void SetRespawnPosition(Vector2 pos) => respawnPos = pos;
 
     private void adjustFacingDirection()
     {

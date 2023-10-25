@@ -17,7 +17,7 @@ public class PlayerIdleState : BaseState
             player.SwitchState(player.jumpState);
             player.jumpIsPressed = false;
         }
-        
+
         else if (player.moveDirection != Vector2.zero) {
             player.SwitchState(player.runState);
         }
