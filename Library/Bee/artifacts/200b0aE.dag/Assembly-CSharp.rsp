@@ -390,7 +390,6 @@
 "Assets/_Scripts/CheckpointLogic.cs"
 "Assets/_Scripts/DisappearingPlatformBehaviour.cs"
 "Assets/_Scripts/ElevatorBehaviour.cs"
-"Assets/_Scripts/GameManagerScript.cs"
 "Assets/_Scripts/PlatformMovement.cs"
 "Assets/_Scripts/Player/BaseState.cs"
 "Assets/_Scripts/Player/PlayerController.cs"

@@ -11,9 +11,6 @@ public class PlatformMovement : MonoBehaviour
     public int startingPoint; // starting point index
     public Transform[] points;
     private PlayerController player;
-
-    private Vector3 previousPos;
-
     private bool playerIsOn = false;
     private int i;
 
@@ -40,7 +37,7 @@ public class PlatformMovement : MonoBehaviour
             }
         }
         
-        previousPos = transform.position;
+        Vector3 previousPos = transform.position;
         transform.position = Vector2.MoveTowards(transform.position, points[i].position, velocity * Time.fixedDeltaTime);
 
         if (playerIsOn)
