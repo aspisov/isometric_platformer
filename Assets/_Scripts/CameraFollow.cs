@@ -7,7 +7,7 @@ public class CameraFollow : MonoBehaviour
     private Camera mainCamera;
 
     public Transform target;
-    float cameraVelocity = 5f;
+    float cameraVelocity = 3f;
 
     public float targetOrthographicSize = 0.5f; // Adjust the target orthographic size.
     public float zoomSpeed = 1.0f; // Adjust the zoom speed.
