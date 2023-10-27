@@ -21,5 +21,7 @@ public class PlayerIdleState : BaseState
         else if (player.moveDirection != Vector2.zero) {
             player.SwitchState(player.runState);
         }
+
+        player.MovementLogic();
     }
 }

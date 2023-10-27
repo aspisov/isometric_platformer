@@ -23,6 +23,6 @@ public class PlayerRunState : BaseState
             player.SwitchState(player.idleState);
         }
 
-        player.rb.position += player.moveDirection * player.velocity * Time.fixedDeltaTime;
+        player.MovementLogic();
     }
 }

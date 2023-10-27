@@ -9,6 +9,6 @@ public class PlayerJumpState : BaseState
     }
     
     public override void UpdateState(PlayerController player) {
-        player.rb.position += player.moveDirection * player.velocity * Time.fixedDeltaTime;
+        player.MovementLogic();
     }
 }

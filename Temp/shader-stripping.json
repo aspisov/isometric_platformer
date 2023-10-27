@@ -1,0 +1,3522 @@
+{
+    "totalVariantsIn": 2870,
+    "totalVariantsOut": 2342,
+    "shaders": [
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/Sampling",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "BoxDownsample (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 17.296300000000004
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "BoxDownsample (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1341
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/Stop NaN",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Stop NaN (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2066
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Stop NaN (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09290000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 24,
+            "outputVariants": 24,
+            "name": "Hidden/Universal Render Pipeline/TemporalAA",
+            "pipelines": [
+                {
+                    "inputVariants": 24,
+                    "outputVariants": 24,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Very Low (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1034
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Very Low (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1307
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Low (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.24550000000000003
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Low (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1715
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Medium (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1043
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Medium (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0944
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality High (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1038
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality High (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0964
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Very High (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1173
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Accumulate - Quality Very High (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0999
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Copy History (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09970000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "TemporalAA - Copy History (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1028
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Universal Render Pipeline/CameraMotionBlur",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - Low Quality (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2142
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - Low Quality (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0921
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - Medium Quality (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0823
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - Medium Quality (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.11750000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - High Quality (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0878
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Blur - High Quality (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1353
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 20,
+            "outputVariants": 20,
+            "name": "Hidden/Universal Render Pipeline/BokehDepthOfField",
+            "pipelines": [
+                {
+                    "inputVariants": 20,
+                    "outputVariants": 20,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field CoC (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.097
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field CoC (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.12660000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Prefilter (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10200000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Prefilter (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1149
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Blur (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0913
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Blur (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09870000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Post Blur (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.098
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Post Blur (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09140000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Composite (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1401
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Composite (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09330000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field CoC (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08560000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field CoC (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09390000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Prefilter (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0882
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Prefilter (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09580000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Blur (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.094
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Blur (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0971
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Post Blur (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0876
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Post Blur (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08950000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Composite (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0873
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Bokeh Depth Of Field Composite (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0872
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Core/FallbackError",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0976
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0843
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/XR/XROcclusionMesh",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0876
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0873
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Shadow2DShadowSprite",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 3.3712
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0897
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/Edge Adaptive Spatial Upsampling",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "EASU (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0911
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "EASU (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0932
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Universal/HDRDebugView",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.20270000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0994
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0879
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09430000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 14,
+            "outputVariants": 14,
+            "name": "Hidden/Universal Render Pipeline/GaussianDepthOfField",
+            "pipelines": [
+                {
+                    "inputVariants": 14,
+                    "outputVariants": 14,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field CoC (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0912
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field CoC (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0906
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Gaussian Depth Of Field Prefilter (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10640000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Gaussian Depth Of Field Prefilter (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1008
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field Blur Horizontal (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0951
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field Blur Horizontal (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08660000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field Blur Vertical (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0883
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Gaussian Depth Of Field Blur Vertical (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09190000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Gaussian Depth Of Field Composite (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.15990000000000002
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Gaussian Depth Of Field Composite (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0964
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 28,
+            "outputVariants": 28,
+            "name": "Hidden/Universal Render Pipeline/Bloom",
+            "pipelines": [
+                {
+                    "inputVariants": 28,
+                    "outputVariants": 28,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Bloom Prefilter (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.11720000000000001
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 8,
+                            "variantName": "Bloom Prefilter (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1293
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Bloom Blur Horizontal (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09290000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Bloom Blur Horizontal (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1008
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Bloom Blur Vertical (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.094
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Bloom Blur Vertical (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0954
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Bloom Upsample (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.111
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Bloom Upsample (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1148
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/MaterialError",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10070000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08700000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 18,
+            "outputVariants": 18,
+            "name": "Hidden/Universal Render Pipeline/SubpixelMorphologicalAntialiasing",
+            "pipelines": [
+                {
+                    "inputVariants": 18,
+                    "outputVariants": 18,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10010000000000001
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1887
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1063
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1077
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10160000000000001
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0999
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/LutBuilderLdr",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "LutBuilderLdr (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0889
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "LutBuilderLdr (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0886
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 66,
+            "outputVariants": 66,
+            "name": "Hidden/Universal Render Pipeline/LensFlareDataDriven",
+            "pipelines": [
+                {
+                    "inputVariants": 66,
+                    "outputVariants": 66,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "LensFlareAdditive (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1057
+                        },
+                        {
+                            "inputVariants": 12,
+                            "outputVariants": 12,
+                            "variantName": "LensFlareAdditive (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1767
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "LensFlareScreen (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.11280000000000001
+                        },
+                        {
+                            "inputVariants": 12,
+                            "outputVariants": 12,
+                            "variantName": "LensFlareScreen (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1437
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "LensFlarePremultiply (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10880000000000001
+                        },
+                        {
+                            "inputVariants": 12,
+                            "outputVariants": 12,
+                            "variantName": "LensFlarePremultiply (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1569
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "LensFlareLerp (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1051
+                        },
+                        {
+                            "inputVariants": 12,
+                            "outputVariants": 12,
+                            "variantName": "LensFlareLerp (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.156
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "LensFlareOcclusion (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0951
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "LensFlareOcclusion (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0897
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Shadow2DUnshadowGeometry",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1013
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0952
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08990000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0868
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 3,
+            "outputVariants": 3,
+            "name": "Hidden/Universal Render Pipeline/ObjectMotionVectors",
+            "pipelines": [
+                {
+                    "inputVariants": 3,
+                    "outputVariants": 3,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Object Motion Vectors (MotionVectors) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0892
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Object Motion Vectors (MotionVectors) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.183
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Light2D-Shape-Volumetric",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0975
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1018
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/FallbackLoading",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.096
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08990000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 100,
+            "outputVariants": 100,
+            "name": "Hidden/Universal/CoreBlit",
+            "pipelines": [
+                {
+                    "inputVariants": 100,
+                    "outputVariants": 100,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2675
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.19190000000000002
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1003
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1665
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09480000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.093
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 3 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0947
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 3 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10310000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 4 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10360000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 4 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10490000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 5 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09230000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 5 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0911
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 6 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09960000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 6 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09730000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 7 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1267
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 7 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09630000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 8 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09190000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 8 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0952
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 9 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08990000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 9 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09280000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 10 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0966
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 10 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0896
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 11 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0946
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 11 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0976
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 12 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09230000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 12 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0925
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 13 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.157
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 13 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0942
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 14 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10070000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 14 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1369
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 15 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1022
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 15 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0946
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 16 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0949
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 16 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10010000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 17 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0897
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 17 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08950000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 18 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1359
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 18 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0952
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 19 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09820000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 19 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.097
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 20 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.3412
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 20 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1039
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 21 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1068
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 21 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.11800000000000001
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 22 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1078
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 22 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.2652
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Universal Render Pipeline/PaniniProjection",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Panini Projection (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0989
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Panini Projection (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0994
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 0,
+            "name": "Hidden/Universal/BlitHDROverlay",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 0,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 0,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.3387
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 0,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0821
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 3,
+            "outputVariants": 3,
+            "name": "Hidden/Universal Render Pipeline/Blit",
+            "pipelines": [
+                {
+                    "inputVariants": 3,
+                    "outputVariants": 3,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Blit (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08950000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Blit (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09190000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 130,
+            "outputVariants": 98,
+            "name": "Hidden/Universal Render Pipeline/FinalPost",
+            "pipelines": [
+                {
+                    "inputVariants": 130,
+                    "outputVariants": 98,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "FinalPost (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.092
+                        },
+                        {
+                            "inputVariants": 64,
+                            "outputVariants": 48,
+                            "variantName": "FinalPost (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.5116
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "FinalPost (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09620000000000001
+                        },
+                        {
+                            "inputVariants": 64,
+                            "outputVariants": 48,
+                            "variantName": "FinalPost (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.48360000000000005
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 3,
+            "outputVariants": 3,
+            "name": "Hidden/Universal Render Pipeline/CameraMotionVectors",
+            "pipelines": [
+                {
+                    "inputVariants": 3,
+                    "outputVariants": 3,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Camera Motion Vectors (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10700000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Camera Motion Vectors (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0927
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Light2d-Point-Volumetric",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0983
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1012
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/ShadowProjected2D",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09620000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08560000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.163
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0932
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/Debug/DebugReplacement",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Vertex Attributes (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1575
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Vertex Attributes (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08990000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 8,
+            "outputVariants": 8,
+            "name": "Hidden/Universal/CoreBlitColorAndDepth",
+            "pipelines": [
+                {
+                    "inputVariants": 8,
+                    "outputVariants": 8,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.095
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.098
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.15280000000000003
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0942
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Universal Render Pipeline/XR/XRMirrorView",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0912
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1018
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0879
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.092
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 16,
+            "outputVariants": 16,
+            "name": "Hidden/Universal Render Pipeline/CopyDepth",
+            "pipelines": [
+                {
+                    "inputVariants": 16,
+                    "outputVariants": 16,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 8,
+                            "variantName": "CopyDepth (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.12990000000000002
+                        },
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 8,
+                            "variantName": "CopyDepth (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1293
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 32,
+            "outputVariants": 32,
+            "name": "Hidden/Light2D-Shape",
+            "pipelines": [
+                {
+                    "inputVariants": 32,
+                    "outputVariants": 32,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1811
+                        },
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.18510000000000002
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Shadow2DUnshadowSprite",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09960000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.099
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 32,
+            "outputVariants": 32,
+            "name": "Hidden/Light2D-Point",
+            "pipelines": [
+                {
+                    "inputVariants": 32,
+                    "outputVariants": 32,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1905
+                        },
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1776
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Universal Render Pipeline/FallbackError",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.12890000000000002
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0902
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 1921,
+            "outputVariants": 1441,
+            "name": "Hidden/Universal Render Pipeline/UberPost",
+            "pipelines": [
+                {
+                    "inputVariants": 1921,
+                    "outputVariants": 1441,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "UberPost (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.108
+                        },
+                        {
+                            "inputVariants": 1920,
+                            "outputVariants": 1440,
+                            "variantName": "UberPost (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 21.9552
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 7,
+            "outputVariants": 5,
+            "name": "Hidden/Universal Render Pipeline/Scaling Setup",
+            "pipelines": [
+                {
+                    "inputVariants": 7,
+                    "outputVariants": 5,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "ScalingSetup (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09860000000000001
+                        },
+                        {
+                            "inputVariants": 6,
+                            "outputVariants": 4,
+                            "variantName": "ScalingSetup (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.22110000000000003
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 10,
+            "outputVariants": 0,
+            "name": "Hidden/Universal Render Pipeline/StencilDeferred",
+            "pipelines": [
+                {
+                    "inputVariants": 10,
+                    "outputVariants": 0,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 0,
+                            "variantName": "Stencil Volume (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1121
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 0,
+                            "variantName": "Deferred Punctual Light (Lit) (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08990000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 0,
+                            "variantName": "Deferred Punctual Light (SimpleLit) (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10160000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 0,
+                            "variantName": "Deferred Directional Light (Lit) (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10110000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 0,
+                            "variantName": "Deferred Directional Light (SimpleLit) (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0823
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 0,
+                            "variantName": "ClearStencilPartial (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08370000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 0,
+                            "variantName": "SSAOOnly (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08750000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Universal Render Pipeline/LutBuilderHdr",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "LutBuilderHdr (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1061
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "LutBuilderHdr (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.097
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 36,
+            "outputVariants": 36,
+            "name": "Universal Render Pipeline/2D/Sprite-Lit-Default",
+            "pipelines": [
+                {
+                    "inputVariants": 36,
+                    "outputVariants": 36,
+                    "pipeline": "UniversalPipeline",
+                    "variants": [
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.48500000000000006
+                        },
+                        {
+                            "inputVariants": 16,
+                            "outputVariants": 16,
+                            "variantName": "Pass 0 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.18000000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0959
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0896
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 2 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09090000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 2 (ScriptableRenderPipeline) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.13970000000000003
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 12,
+            "outputVariants": 12,
+            "name": "Legacy Shaders/VertexLit",
+            "pipelines": [
+                {
+                    "inputVariants": 12,
+                    "outputVariants": 12,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 0 (Vertex) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2772
+                        },
+                        {
+                            "inputVariants": 3,
+                            "outputVariants": 3,
+                            "variantName": "Pass 0 (Vertex) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.2273
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (VertexLM) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2348
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (VertexLM) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.19210000000000003
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "ShadowCaster (ShadowCaster) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1332
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "ShadowCaster (ShadowCaster) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1903
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 30,
+            "outputVariants": 30,
+            "name": "Legacy Shaders/Diffuse",
+            "pipelines": [
+                {
+                    "inputVariants": 30,
+                    "outputVariants": 30,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 8,
+                            "outputVariants": 8,
+                            "variantName": "FORWARD (ForwardBase) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.27
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "FORWARD (ForwardBase) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1263
+                        },
+                        {
+                            "inputVariants": 5,
+                            "outputVariants": 5,
+                            "variantName": "FORWARD (ForwardAdd) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.162
+                        },
+                        {
+                            "inputVariants": 5,
+                            "outputVariants": 5,
+                            "variantName": "FORWARD (ForwardAdd) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.2346
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "DEFERRED (Deferred) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.112
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "DEFERRED (Deferred) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1087
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-StencilWrite",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0959
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08990000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 20,
+            "outputVariants": 20,
+            "name": "Hidden/Internal-DepthNormalsTexture",
+            "pipelines": [
+                {
+                    "inputVariants": 20,
+                    "outputVariants": 20,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0983
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0981
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08510000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.16240000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.12290000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.2857
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08600000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.082
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 4) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0926
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 4) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0824
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 5) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.082
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 5) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08370000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 5) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0843
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 5) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0881
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 6) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08950000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 6) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08420000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 7) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.085
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 7) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.083
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 8) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1082
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 8) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0876
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 32,
+            "outputVariants": 32,
+            "name": "Hidden/Internal-ScreenSpaceShadows",
+            "pipelines": [
+                {
+                    "inputVariants": 32,
+                    "outputVariants": 32,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1091
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.11040000000000001
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1116
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1134
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1043
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09970000000000001
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.3196
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1549
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-CombineDepthNormals",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.18030000000000002
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1401
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitCopy",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09680000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0869
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitCopyDepth",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0858
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0873
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/ConvertTexture",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.16570000000000002
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0855
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 54,
+            "outputVariants": 54,
+            "name": "Hidden/Internal-DeferredShading",
+            "pipelines": [
+                {
+                    "inputVariants": 54,
+                    "outputVariants": 54,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 26,
+                            "outputVariants": 26,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2341
+                        },
+                        {
+                            "inputVariants": 26,
+                            "outputVariants": 26,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.4163
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0966
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0888
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Internal-DeferredReflections",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0976
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09140000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1179
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1116
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Internal-MotionVectors",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (MotionVectors) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10020000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (MotionVectors) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.12250000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.096
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09040000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09240000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 2 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0891
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-Flare",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0902
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0876
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-Halo",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0848
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09230000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitCopyWithDepth",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0833
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.095
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitToDepth",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09000000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0854
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitToDepth_MSAA",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.098
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0864
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/BlitCopyHDRTonemap",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10640000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0863
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 6,
+            "outputVariants": 6,
+            "name": "Hidden/Internal-DebugPattern",
+            "pipelines": [
+                {
+                    "inputVariants": 6,
+                    "outputVariants": 6,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target Color and DepthStencil (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10300000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target Color and DepthStencil (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.094
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target only Color (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10260000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target only Color (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09380000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target only DepthStencil (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0946
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Target only DepthStencil (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.101
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUITextureClip",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.115
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1981
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1479
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.14500000000000003
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUITextureClipText",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09670000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.36660000000000006
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1014
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0879
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUITexture",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0949
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.12050000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09530000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10990000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUITextureBlit",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.2024
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1427
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1436
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.2025
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUIRoundedRect",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1656
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.14800000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.16490000000000003
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1517
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-GUIRoundedRectWithColorPerBorder",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1728
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1431
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1179
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.12990000000000002
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-UIRDefault",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1302
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0966
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0878
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0849
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-UIRAtlasBlitCopy",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0868
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1257
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/Internal-UIRDefaultWorld",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1401
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1145
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1154
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.16110000000000003
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 8,
+            "outputVariants": 8,
+            "name": "Sprites/Default",
+            "pipelines": [
+                {
+                    "inputVariants": 8,
+                    "outputVariants": 8,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1741
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.199
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 8,
+            "outputVariants": 8,
+            "name": "Sprites/Mask",
+            "pipelines": [
+                {
+                    "inputVariants": 8,
+                    "outputVariants": 8,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.113
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.14830000000000002
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 8,
+            "outputVariants": 8,
+            "name": "UI/Default",
+            "pipelines": [
+                {
+                    "inputVariants": 8,
+                    "outputVariants": 8,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.11660000000000001
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10550000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 8,
+            "outputVariants": 8,
+            "name": "UI/DefaultETC1",
+            "pipelines": [
+                {
+                    "inputVariants": 8,
+                    "outputVariants": 8,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1124
+                        },
+                        {
+                            "inputVariants": 4,
+                            "outputVariants": 4,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10600000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/CubeBlur",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1038
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08170000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08220000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09390000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/CubeCopy",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10590000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0902
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08660000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08420000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 4,
+            "outputVariants": 4,
+            "name": "Hidden/CubeBlend",
+            "pipelines": [
+                {
+                    "inputVariants": 4,
+                    "outputVariants": 4,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1061
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.11610000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.101
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.137
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/VR/BlitTexArraySlice",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0854
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0988
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 20,
+            "outputVariants": 20,
+            "name": "Hidden/Internal-ODSWorldTexture",
+            "pipelines": [
+                {
+                    "inputVariants": 20,
+                    "outputVariants": 20,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.11710000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0848
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.092
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.093
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09380000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 2) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0887
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.10740000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 3) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1004
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 4) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1033
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 4) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08950000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 5) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09860000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 5) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.08220000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 5) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0898
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 1 (Normal) (SubShader: 5) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1008
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 6) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0804
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 6) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1348
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 7) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0964
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 7) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0833
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 8) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09680000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 8) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.082
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Internal-CubemapToEquirect",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1355
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0872
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 3,
+            "outputVariants": 3,
+            "name": "Hidden/VR/BlitFromTex2DToTexArraySlice",
+            "pipelines": [
+                {
+                    "inputVariants": 3,
+                    "outputVariants": 3,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0915
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0825
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 1) (ShaderType: Geometry)",
+                            "stripTimeMs": 0.0906
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/VideoComposite",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0882
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Default (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0945
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 30,
+            "outputVariants": 30,
+            "name": "Hidden/VideoDecode",
+            "pipelines": [
+                {
+                    "inputVariants": 30,
+                    "outputVariants": 30,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCr_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0954
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCr_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0983
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCrA_To_RGBAFull (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09240000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCrA_To_RGBAFull (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.10540000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCrA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.113
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "YCbCrA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0916
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_RGBA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1124
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_RGBA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1154
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_RGBASplit_To_RGBA (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.09190000000000001
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_RGBASplit_To_RGBA (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1087
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_NV12_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1061
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_NV12_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0971
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_NV12_To_RGBA (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1073
+                        },
+                        {
+                            "inputVariants": 2,
+                            "outputVariants": 2,
+                            "variantName": "Flip_NV12_To_RGBA (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09820000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Flip_P010_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.08800000000000001
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Flip_P010_To_RGB1 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.09670000000000001
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/Compositing",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Mix_RGBA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.1516
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Mix_RGBA_To_RGBA (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.1081
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "inputVariants": 2,
+            "outputVariants": 2,
+            "name": "Hidden/TextCore/Distance Field SSD",
+            "pipelines": [
+                {
+                    "inputVariants": 2,
+                    "outputVariants": 2,
+                    "pipeline": "",
+                    "variants": [
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Vertex)",
+                            "stripTimeMs": 0.0853
+                        },
+                        {
+                            "inputVariants": 1,
+                            "outputVariants": 1,
+                            "variantName": "Pass 0 (Normal) (SubShader: 0) (ShaderType: Fragment)",
+                            "stripTimeMs": 0.0872
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

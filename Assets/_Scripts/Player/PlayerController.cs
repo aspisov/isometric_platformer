@@ -1,15 +1,15 @@
+using System.ComponentModel.Design;
 using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using System;
 
 public class PlayerController : MonoBehaviour
 {
     public Vector2 moveDirection;
     public Rigidbody2D rb;
-
-    public float velocity = 1f;
     public bool isColliding = true;
     public bool jumpIsPressed = false;
     public bool interactIsPressed = false;
@@ -26,6 +26,17 @@ public class PlayerController : MonoBehaviour
     public PlayerJumpState jumpState = new PlayerJumpState();
     public PlayerFallState fallState = new PlayerFallState();
     public PlayerElevateState elevateState = new PlayerElevateState();
+
+
+    public float mass = 0.3f;
+    public float drag = 800;
+    public Vector2 velocity = Vector2.zero;
+    private Vector2 path = Vector2.zero;
+    private float velMax = 1f;
+    private float forceX, forceY;
+    private Vector2 timeDragged;
+    private float velXInitial, velYInitial;
+
 
     // Start is called before the first frame update
     void Start()
@@ -49,7 +60,10 @@ public class PlayerController : MonoBehaviour
     private void OnMove(InputValue value)
     {
         // adjusting movement direction for isometric prospective
-        moveDirection = new Vector2(value.Get<Vector2>().x, value.Get<Vector2>().y / 2).normalized;
+        moveDirection = value.Get<Vector2>();
+        // moveDirection = new Vector2(value.Get<Vector2>().x, value.Get<Vector2>().y / 2).normalized;
+        forceX = moveDirection.x;
+        forceY = moveDirection.y;
     }
 
     private void OnJump()
@@ -65,11 +79,9 @@ public class PlayerController : MonoBehaviour
 
     private void EndJump() => SwitchState(idleState);
 
-    public void MoveBy(Vector3 distance)
+    public void MoveBy(Vector2 distance)
     {
-        if (currentState != jumpState) {
-            rb.position += new Vector2(distance.x, distance.y);
-        }
+        rb.position += new Vector2(distance.x, distance.y);
     }
 
     public void SetRespawnPosition(Vector2 pos) => respawnPos = pos;
@@ -119,5 +131,75 @@ public class PlayerController : MonoBehaviour
         {
             obj.Reset();
         }
+    }
+
+    public void MovementLogic() {
+        CalculateMovementX(drag);
+        CalculateMovementY(drag);
+        CorrectVelocitiesAndPaths();
+        PerformMovement();
+    }
+
+    public void CalculateMovementX(float resistance) {
+        if (Math.Abs(velocity.x) < 0.1 && forceX == 0 || velocity.x * forceX < 0) {
+            velocity.x = 0;
+        }
+
+        if (forceX == 0 && velocity.x != 0) {
+            timeDragged.x += Time.fixedDeltaTime;
+            path.x = CalculatePathWithDrag(velXInitial, timeDragged.x, resistance);
+            velocity.x = path.x / Time.fixedDeltaTime;
+            return;
+        }
+
+        timeDragged.x = 0;
+        velocity.x += forceX / mass * Time.fixedDeltaTime / 2;
+        path.x = velocity.x * Time.fixedDeltaTime;
+        velocity.x += forceX / mass * Time.fixedDeltaTime / 2;
+        velXInitial = velocity.x;
+    }
+
+    public void CalculateMovementY(float resistance) {
+        if (Math.Abs(velocity.y) < 0.1 && forceY == 0 || velocity.y * forceY < 0) {
+            velocity.y = 0;
+        }
+
+        if (forceY == 0 && velocity.y != 0) {
+            timeDragged.y += Time.fixedDeltaTime;
+            path.y = CalculatePathWithDrag(velYInitial, timeDragged.y, resistance);
+            velocity.y = path.y / Time.fixedDeltaTime;
+            return;
+        }
+
+        timeDragged.y = 0;
+        velocity.y += forceY / mass * Time.fixedDeltaTime / 2;
+        path.y = velocity.y * Time.fixedDeltaTime;
+        velocity.y += forceY / mass * Time.fixedDeltaTime / 2;
+        velYInitial = velocity.y;
+    }
+
+    private float CalculatePathWithDrag(float v0, float time_dragged, float drag) {
+        return mass * v0 / drag * (float)(Math.Pow(Math.E, -drag / mass * time_dragged) -
+               (float)Math.Pow(Math.E, -drag / mass * (time_dragged + Time.fixedDeltaTime)));
+    }
+
+    public void CorrectVelocitiesAndPaths() {
+        float velocity_sum = (float)Math.Sqrt(Math.Pow(velocity.x, 2) + Math.Pow(velocity.y, 2));
+        if (velocity_sum <= velMax) return;
+        float k = velMax / velocity_sum;
+        velocity *= k;
+        path *= k;
+        if (forceX != 0) {
+            path.y /= 2;
+        }
+    }
+
+    public void PerformMovement() {
+        StopLogic(path);
+    }
+
+    public void StopLogic(Vector2 stopPoint) {
+        MoveBy(stopPoint);
+        path = Vector2.zero;
     }
 }

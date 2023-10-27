@@ -4,7 +4,7 @@ ScriptsOnlyBuild:
     - CameraFollow
     - CheckpointLogic
     - DisappearingPlatformBehavior
-    - GameManagerScript
+    - ElevatorBehavior
     - PlatformMovement
     - PlayerController
     - PointBehaviour
@@ -77,7 +77,6 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Volume
     - UnityEngine.Rendering.VolumeProfile
     Unity.RenderPipelines.Universal.Editor.dll:
-    - UnityEditor.Rendering.Universal.Path2D.ScriptablePathInspector
     - UnityEditor.Rendering.Universal.UniversalProjectSettings
     Unity.RenderPipelines.Universal.Runtime.dll:
     - UnityEngine.Rendering.Universal.Bloom
@@ -208,7 +207,7 @@ ScriptsOnlyBuild:
     fullTypeName: UnityEngine.Rendering.UI.DebugUIHandlerPanel
     methodName: ResetDebugManager
   sceneClasses:
-    Assets/Scenes/SampleScene.unity:
+    Assets/Scenes/Floor 0.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -270,97 +269,97 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4142}
     - Class: 114
-      Script: {instanceID: 4820}
+      Script: {instanceID: 4824}
     - Class: 114
-      Script: {instanceID: 4830}
+      Script: {instanceID: 4834}
     - Class: 114
-      Script: {instanceID: 4868}
+      Script: {instanceID: 4872}
     - Class: 114
-      Script: {instanceID: 4910}
+      Script: {instanceID: 4914}
     - Class: 114
-      Script: {instanceID: 4970}
+      Script: {instanceID: 4974}
     - Class: 114
-      Script: {instanceID: 5032}
+      Script: {instanceID: 5036}
     - Class: 114
-      Script: {instanceID: 5186}
+      Script: {instanceID: 5190}
     - Class: 114
-      Script: {instanceID: 5202}
+      Script: {instanceID: 5206}
     - Class: 114
-      Script: {instanceID: 5674}
+      Script: {instanceID: 5292}
     - Class: 114
-      Script: {instanceID: 5750}
+      Script: {instanceID: 5680}
     - Class: 114
-      Script: {instanceID: 5848}
+      Script: {instanceID: 5756}
     - Class: 114
-      Script: {instanceID: 5928}
+      Script: {instanceID: 5856}
     - Class: 114
-      Script: {instanceID: 6118}
+      Script: {instanceID: 5936}
     - Class: 114
-      Script: {instanceID: 6302}
+      Script: {instanceID: 6126}
     - Class: 114
-      Script: {instanceID: 6316}
+      Script: {instanceID: 6310}
     - Class: 114
-      Script: {instanceID: 6372}
+      Script: {instanceID: 6380}
     - Class: 114
-      Script: {instanceID: 7236}
+      Script: {instanceID: 7246}
     - Class: 114
-      Script: {instanceID: 7360}
+      Script: {instanceID: 7370}
     - Class: 114
-      Script: {instanceID: 7652}
+      Script: {instanceID: 7662}
     - Class: 114
-      Script: {instanceID: 7710}
+      Script: {instanceID: 7720}
     - Class: 114
-      Script: {instanceID: 8240}
+      Script: {instanceID: 8250}
     - Class: 114
-      Script: {instanceID: 8378}
+      Script: {instanceID: 8388}
     - Class: 114
-      Script: {instanceID: 8500}
+      Script: {instanceID: 8510}
     - Class: 114
-      Script: {instanceID: 8746}
+      Script: {instanceID: 8756}
     - Class: 114
-      Script: {instanceID: 9110}
+      Script: {instanceID: 9120}
     - Class: 114
-      Script: {instanceID: 9430}
+      Script: {instanceID: 9442}
     - Class: 114
-      Script: {instanceID: 9498}
+      Script: {instanceID: 9510}
     - Class: 114
-      Script: {instanceID: 9610}
+      Script: {instanceID: 9622}
     - Class: 114
-      Script: {instanceID: 9746}
+      Script: {instanceID: 9758}
     - Class: 114
-      Script: {instanceID: 9854}
+      Script: {instanceID: 9866}
     - Class: 114
-      Script: {instanceID: 10116}
+      Script: {instanceID: 10128}
     - Class: 114
-      Script: {instanceID: 10328}
+      Script: {instanceID: 10340}
     - Class: 114
-      Script: {instanceID: 10780}
+      Script: {instanceID: 10792}
     - Class: 114
-      Script: {instanceID: 10838}
+      Script: {instanceID: 10850}
     - Class: 114
-      Script: {instanceID: 11086}
+      Script: {instanceID: 11098}
     - Class: 114
-      Script: {instanceID: 11348}
+      Script: {instanceID: 11360}
     - Class: 114
-      Script: {instanceID: 11658}
+      Script: {instanceID: 11670}
     - Class: 114
-      Script: {instanceID: 11790}
+      Script: {instanceID: 11802}
     - Class: 114
-      Script: {instanceID: 11840}
+      Script: {instanceID: 11894}
     - Class: 114
-      Script: {instanceID: 11884}
+      Script: {instanceID: 11978}
     - Class: 114
-      Script: {instanceID: 11968}
+      Script: {instanceID: 12098}
     - Class: 114
-      Script: {instanceID: 12088}
+      Script: {instanceID: 12250}
     - Class: 114
-      Script: {instanceID: 12240}
+      Script: {instanceID: 12536}
     - Class: 114
-      Script: {instanceID: 12526}
+      Script: {instanceID: 13320}
     - Class: 114
-      Script: {instanceID: 13310}
+      Script: {instanceID: 13588}
     - Class: 114
-      Script: {instanceID: 56360}
+      Script: {instanceID: 13592}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -382,6 +381,91 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 19719996
+      Script: {instanceID: 0}
+    - Class: 156049354
+      Script: {instanceID: 0}
+    - Class: 483693784
+      Script: {instanceID: 0}
+    - Class: 1839735485
+      Script: {instanceID: 0}
+    Assets/Scenes/Floor 1.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 50
+      Script: {instanceID: 0}
+    - Class: 60
+      Script: {instanceID: 0}
+    - Class: 61
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 802}
+    - Class: 114
+      Script: {instanceID: 4142}
+    - Class: 114
+      Script: {instanceID: 4824}
+    - Class: 114
+      Script: {instanceID: 4834}
+    - Class: 114
+      Script: {instanceID: 5292}
+    - Class: 114
+      Script: {instanceID: 6126}
+    - Class: 114
+      Script: {instanceID: 6324}
+    - Class: 114
+      Script: {instanceID: 7370}
+    - Class: 114
+      Script: {instanceID: 7662}
+    - Class: 114
+      Script: {instanceID: 7720}
+    - Class: 114
+      Script: {instanceID: 8510}
+    - Class: 114
+      Script: {instanceID: 9120}
+    - Class: 114
+      Script: {instanceID: 9622}
+    - Class: 114
+      Script: {instanceID: 10340}
+    - Class: 114
+      Script: {instanceID: 10792}
+    - Class: 114
+      Script: {instanceID: 13588}
+    - Class: 114
+      Script: {instanceID: 13592}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 198
+      Script: {instanceID: 0}
+    - Class: 199
+      Script: {instanceID: 0}
+    - Class: 212
+      Script: {instanceID: 0}
+    - Class: 213
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}
@@ -952,6 +1036,12 @@ ScriptsOnlyBuild:
     className: UnityOnDeselectMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 21bc48faed67f1809610ec66f1b7fad1
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: CheckpointLogic
+  - hash:
+      serializedVersion: 2
       Hash: e8ff0f32aede797557af213671aa1a71
     assemblyName: Unity.RenderPipelines.Universal.Runtime
     namespaceName: UnityEngine.Experimental.Rendering.Universal
@@ -1048,7 +1138,7 @@ ScriptsOnlyBuild:
     className: TouchSimulation
   - hash:
       serializedVersion: 2
-      Hash: fff1a32deae5d332d9da4054ff9bffa2
+      Hash: 5810e9db62f78f66c0e168012e02ab30
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: CameraFollow
@@ -1082,12 +1172,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.InputSystem
     namespaceName: UnityEngine.InputSystem
     className: InputActionReference
-  - hash:
-      serializedVersion: 2
-      Hash: 751e5bae2a317288c2ab58d66687092b
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: GameManagerScript
   - hash:
       serializedVersion: 2
       Hash: 7d4689225ec2e0d4faaa4421ded090a8
@@ -1888,12 +1972,6 @@ ScriptsOnlyBuild:
     className: DebugUIHandlerIndirectFloatField
   - hash:
       serializedVersion: 2
-      Hash: 269cf038c7c167e718ba578ce038455e
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: PlayerController
-  - hash:
-      serializedVersion: 2
       Hash: 751d867553f413cde86fe5db0b02780d
     assemblyName: UnityEngine.UI
     namespaceName: UnityEngine.EventSystems
@@ -2110,11 +2188,18 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 21bc48faed67f1809610ec66f1b7fad1
+      Hash: 68c5e5b22c611143eb756221d02bcc87
     assemblyName: Assembly-CSharp
     namespaceName: 
-    className: CheckpointLogic
+    className: PlayerController
+  - hash:
+      serializedVersion: 2
+      Hash: a3914c835e6c329f5074e529b973c0b5
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: ElevatorBehavior
   platform: 2
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  playerPath: /Users/aspisov/Desktop/Games/isometric.app
+  - Assets/Scenes/Floor 0.unity
+  - Assets/Scenes/Floor 1.unity
+  playerPath: /Users/aspisov/Documents/isometric 0.2.app
