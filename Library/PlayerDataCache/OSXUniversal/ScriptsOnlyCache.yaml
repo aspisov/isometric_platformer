@@ -269,8 +269,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 4142}
     - Class: 114
-      Script: {instanceID: 4824}
-    - Class: 114
       Script: {instanceID: 4834}
     - Class: 114
       Script: {instanceID: 4872}
@@ -312,8 +310,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 8250}
     - Class: 114
       Script: {instanceID: 8388}
-    - Class: 114
-      Script: {instanceID: 8510}
     - Class: 114
       Script: {instanceID: 8756}
     - Class: 114
@@ -2202,4 +2198,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Floor 0.unity
   - Assets/Scenes/Floor 1.unity
-  playerPath: /Users/aspisov/Documents/isometric 0.2.app
+  playerPath: /Users/aspisov/Documents/isometric 0.3.app

@@ -399,6 +399,7 @@
 "Assets/_Scripts/Player/PlayerJumpState.cs"
 "Assets/_Scripts/Player/PlayerRunState.cs"
 "Assets/_Scripts/PointBehaviour.cs"
+"Assets/_Scripts/UI/WhiteScreenController.cs"
 -langversion:9.0
 
 /deterministic

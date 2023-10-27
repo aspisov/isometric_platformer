@@ -52,6 +52,7 @@
      <Compile Include="Assets/_Scripts/Player/PlayerController.cs" />
      <Compile Include="Assets/_Scripts/PlatformMovement.cs" />
      <Compile Include="Assets/_Scripts/DisappearingPlatformBehaviour.cs" />
+     <Compile Include="Assets/_Scripts/UI/WhiteScreenController.cs" />
      <Compile Include="Assets/_Scripts/CheckpointLogic.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>

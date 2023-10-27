@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,6 +8,7 @@ public class ElevatorBehavior : MonoBehaviour
 {
     PlayerController player;
     CameraFollow mainCamera;
+    WhiteScreenController fog;
     private bool isColliding = false;
     public bool isMoving = false;
     public float velocity = 0.5f;
@@ -15,14 +17,19 @@ public class ElevatorBehavior : MonoBehaviour
     public Transform startPoint;
     public Transform endPoint;
 
+    public enum ElevatorType {
+        toPlatform, fromPlatform
+    }
 
+    public ElevatorType type;
 
     // Start is called before the first frame update
     void Start()
     {
+        transform.position = startPoint.position;
         player = GameObject.FindGameObjectWithTag("Player").GetComponent<PlayerController>();
         mainCamera = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<CameraFollow>();
-        transform.position = startPoint.position;
+        fog = GameObject.FindGameObjectWithTag("WhiteFog").GetComponent<WhiteScreenController>();
     }
 
     // Update is called once per frame
@@ -75,5 +82,15 @@ public class ElevatorBehavior : MonoBehaviour
         Vector3 previousPos = transform.position;
         transform.position = Vector2.MoveTowards(transform.position, endPoint.position, velocity * Time.deltaTime);
         player.transform.position += transform.position - previousPos;
+        fog.SetOpacity(CalculatePercentageComplete());
+    }
+
+    float CalculatePercentageComplete() {
+        float wholePath = Math.Abs(endPoint.position.y - startPoint.position.y);
+        float completePath = Math.Abs(transform.position.y - startPoint.position.y);
+        if (type == ElevatorType.fromPlatform) {
+            return completePath / wholePath;
+        }
+        return 1 - completePath / wholePath;
     }
 }
