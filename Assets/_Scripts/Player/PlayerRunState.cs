@@ -7,6 +7,9 @@ public class PlayerRunState : BaseState
 {
     public override void EnterState(PlayerController player) {
         player.animator.Play("run");
+        player.audioSource.clip = player.runSound;
+        player.audioSource.Play();
+        player.audioSource.loop = true;
     }
     
     public override void UpdateState(PlayerController player) {

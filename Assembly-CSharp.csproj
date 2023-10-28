@@ -54,6 +54,7 @@
      <Compile Include="Assets/_Scripts/DisappearingPlatformBehaviour.cs" />
      <Compile Include="Assets/_Scripts/UI/WhiteScreenController.cs" />
      <Compile Include="Assets/_Scripts/CheckpointLogic.cs" />
+     <None Include="Assets/Audio/kenney_voiceover-pack-fighter/License.txt" />
     <Reference Include="UnityEngine">
         <HintPath>/Applications/Unity/Hub/Editor/2022.3.10f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

@@ -2091,7 +2091,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8244079115236276122, guid: 6dfaa0ce448234cb987089da32e16139, type: 3}
       propertyPath: drag
-      value: 800
+      value: 500
       objectReference: {fileID: 0}
     - target: {fileID: 8244079115236276122, guid: 6dfaa0ce448234cb987089da32e16139, type: 3}
       propertyPath: mass

@@ -4657,3 +4657,2589 @@ Received Import Request.
 Start importing Assets/Scenes/Floor 0.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbc7f598ef4397d34f60d884dc908f92') in 0.003320 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 12.76 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets / (507.1 KB). Loaded Objects now: 6960.
+Memory consumption went from 257.5 MB to 257.0 MB.
+Total: 76.112919 ms (FindLiveObjects: 2.866642 ms CreateObjectMapping: 0.950910 ms MarkObjects: 71.483026 ms  DeleteObjects: 0.809362 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 6.07 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets / (507.2 KB). Loaded Objects now: 6960.
+Memory consumption went from 257.5 MB to 257.0 MB.
+Total: 57.121785 ms (FindLiveObjects: 2.805844 ms CreateObjectMapping: 0.628367 ms MarkObjects: 53.042503 ms  DeleteObjects: 0.642261 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 9 unused Assets / (507.4 KB). Loaded Objects now: 6960.
+Memory consumption went from 257.5 MB to 257.0 MB.
+Total: 83.417652 ms (FindLiveObjects: 3.964978 ms CreateObjectMapping: 0.646905 ms MarkObjects: 78.099226 ms  DeleteObjects: 0.704920 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.396 seconds
+Refreshing native plugins compatible for Editor in 3.33 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  5.102 seconds
+Domain Reload Profiling: 7501ms
+	BeginReloadAssembly (1087ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (138ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (435ms)
+	RebuildCommonClasses (128ms)
+	RebuildNativeTypeToScriptingClass (38ms)
+	initialDomainReloadingComplete (79ms)
+	LoadAllAssembliesAndSetupDomain (1067ms)
+		LoadAssemblies (1222ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (225ms)
+			TypeCache.Refresh (59ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (123ms)
+			ResolveRequiredComponents (39ms)
+	FinalizeReload (5103ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1958ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (26ms)
+			SetLoadedEditorAssemblies (15ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (262ms)
+			ProcessInitializeOnLoadAttributes (1395ms)
+			ProcessInitializeOnLoadMethodAttributes (256ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (52ms)
+Refreshing native plugins compatible for Editor in 3.32 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6924.
+Memory consumption went from 344.1 MB to 343.6 MB.
+Total: 12.971167 ms (FindLiveObjects: 0.918883 ms CreateObjectMapping: 0.610608 ms MarkObjects: 10.217701 ms  DeleteObjects: 1.216646 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.845 seconds
+Refreshing native plugins compatible for Editor in 3.58 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.183 seconds
+Domain Reload Profiling: 6030ms
+	BeginReloadAssembly (697ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (53ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (263ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (94ms)
+	LoadAllAssembliesAndSetupDomain (914ms)
+		LoadAssemblies (1019ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (170ms)
+			TypeCache.Refresh (29ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (103ms)
+			ResolveRequiredComponents (31ms)
+	FinalizeReload (4184ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1433ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (199ms)
+			ProcessInitializeOnLoadAttributes (1008ms)
+			ProcessInitializeOnLoadMethodAttributes (190ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (42ms)
+Refreshing native plugins compatible for Editor in 5.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6929.
+Memory consumption went from 344.3 MB to 343.8 MB.
+Total: 14.103046 ms (FindLiveObjects: 1.493960 ms CreateObjectMapping: 0.762700 ms MarkObjects: 11.191010 ms  DeleteObjects: 0.651890 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.137 seconds
+Refreshing native plugins compatible for Editor in 4.08 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.460 seconds
+Domain Reload Profiling: 4597ms
+	BeginReloadAssembly (388ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (30ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (163ms)
+	RebuildCommonClasses (98ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (52ms)
+	LoadAllAssembliesAndSetupDomain (565ms)
+		LoadAssemblies (564ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (131ms)
+			TypeCache.Refresh (20ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (77ms)
+			ResolveRequiredComponents (29ms)
+	FinalizeReload (3461ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1286ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (13ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (168ms)
+			ProcessInitializeOnLoadAttributes (887ms)
+			ProcessInitializeOnLoadMethodAttributes (203ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (42ms)
+Refreshing native plugins compatible for Editor in 5.41 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6934.
+Memory consumption went from 344.6 MB to 344.1 MB.
+Total: 13.146439 ms (FindLiveObjects: 1.680209 ms CreateObjectMapping: 1.552736 ms MarkObjects: 9.227600 ms  DeleteObjects: 0.683546 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.273 seconds
+Refreshing native plugins compatible for Editor in 3.41 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.609 seconds
+Domain Reload Profiling: 4883ms
+	BeginReloadAssembly (449ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (36ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (171ms)
+	RebuildCommonClasses (99ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (66ms)
+	LoadAllAssembliesAndSetupDomain (625ms)
+		LoadAssemblies (652ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (149ms)
+			TypeCache.Refresh (21ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (89ms)
+			ResolveRequiredComponents (34ms)
+	FinalizeReload (3610ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1233ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (21ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (169ms)
+			ProcessInitializeOnLoadAttributes (857ms)
+			ProcessInitializeOnLoadMethodAttributes (172ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (34ms)
+Refreshing native plugins compatible for Editor in 3.40 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6939.
+Memory consumption went from 344.8 MB to 344.3 MB.
+Total: 9.664846 ms (FindLiveObjects: 0.845364 ms CreateObjectMapping: 0.670671 ms MarkObjects: 7.350562 ms  DeleteObjects: 0.796664 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.607 seconds
+Refreshing native plugins compatible for Editor in 4.04 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.967 seconds
+Domain Reload Profiling: 5578ms
+	BeginReloadAssembly (551ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (44ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (237ms)
+	RebuildCommonClasses (115ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (847ms)
+		LoadAssemblies (783ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (246ms)
+			TypeCache.Refresh (44ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (137ms)
+			ResolveRequiredComponents (56ms)
+	FinalizeReload (3968ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1574ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (17ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (211ms)
+			ProcessInitializeOnLoadAttributes (1096ms)
+			ProcessInitializeOnLoadMethodAttributes (216ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (1ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
+Refreshing native plugins compatible for Editor in 4.37 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6944.
+Memory consumption went from 345.2 MB to 344.7 MB.
+Total: 11.128312 ms (FindLiveObjects: 1.154928 ms CreateObjectMapping: 0.670852 ms MarkObjects: 8.388976 ms  DeleteObjects: 0.911005 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 10565.046704 seconds.
+  path: Assets/Scenes/Floor 1.unity
+  artifactKey: Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Floor 1.unity using Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6e24e87a8e0c31cd6a49c0172439a1') in 0.008356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 45.963677 seconds.
+  path: Assets/Scenes/Floor 0.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Floor 0.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfc7ac3424e494e45d777841d903ae28') in 0.005516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 142.086573 seconds.
+  path: Assets/Scenes/Floor 1.unity
+  artifactKey: Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Floor 1.unity using Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b0d5bcf664d8a8c9d6c5e76037376f5') in 0.005906 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.888 seconds
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.839 seconds
+Domain Reload Profiling: 5729ms
+	BeginReloadAssembly (666ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (58ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (276ms)
+	RebuildCommonClasses (103ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (63ms)
+	LoadAllAssembliesAndSetupDomain (1024ms)
+		LoadAssemblies (1074ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (180ms)
+			TypeCache.Refresh (32ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (104ms)
+			ResolveRequiredComponents (37ms)
+	FinalizeReload (3840ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1366ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (181ms)
+			ProcessInitializeOnLoadAttributes (959ms)
+			ProcessInitializeOnLoadMethodAttributes (191ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (44ms)
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6949.
+Memory consumption went from 344.1 MB to 343.6 MB.
+Total: 9.874319 ms (FindLiveObjects: 0.811548 ms CreateObjectMapping: 0.543885 ms MarkObjects: 7.311245 ms  DeleteObjects: 1.205064 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.868 seconds
+Refreshing native plugins compatible for Editor in 3.73 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.015 seconds
+Domain Reload Profiling: 5883ms
+	BeginReloadAssembly (622ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (57ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (161ms)
+	RebuildCommonClasses (164ms)
+	RebuildNativeTypeToScriptingClass (50ms)
+	initialDomainReloadingComplete (137ms)
+	LoadAllAssembliesAndSetupDomain (894ms)
+		LoadAssemblies (1070ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (147ms)
+			TypeCache.Refresh (25ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (82ms)
+			ResolveRequiredComponents (33ms)
+	FinalizeReload (4016ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1342ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (23ms)
+			SetLoadedEditorAssemblies (15ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (262ms)
+			ProcessInitializeOnLoadAttributes (865ms)
+			ProcessInitializeOnLoadMethodAttributes (175ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (41ms)
+Refreshing native plugins compatible for Editor in 4.20 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6954.
+Memory consumption went from 344.4 MB to 343.9 MB.
+Total: 16.025713 ms (FindLiveObjects: 1.184776 ms CreateObjectMapping: 0.893774 ms MarkObjects: 13.377668 ms  DeleteObjects: 0.567778 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.330 seconds
+Refreshing native plugins compatible for Editor in 3.24 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.754 seconds
+Domain Reload Profiling: 5084ms
+	BeginReloadAssembly (418ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (145ms)
+	RebuildCommonClasses (100ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (65ms)
+	LoadAllAssembliesAndSetupDomain (713ms)
+		LoadAssemblies (761ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (138ms)
+			TypeCache.Refresh (20ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (80ms)
+			ResolveRequiredComponents (30ms)
+	FinalizeReload (3755ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1325ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (19ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (182ms)
+			ProcessInitializeOnLoadAttributes (928ms)
+			ProcessInitializeOnLoadMethodAttributes (181ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (39ms)
+Refreshing native plugins compatible for Editor in 4.39 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6959.
+Memory consumption went from 344.7 MB to 344.2 MB.
+Total: 8.239453 ms (FindLiveObjects: 0.838172 ms CreateObjectMapping: 0.615802 ms MarkObjects: 6.230320 ms  DeleteObjects: 0.552918 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1729.852818 seconds.
+  path: Assets/Scenes/Floor 1.unity
+  artifactKey: Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Floor 1.unity using Guid(1b60e7b6f9e9c44df91a726f2080dee0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '320e3505820bc497a3620ad9a3e2bb73') in 0.004679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 499.162810 seconds.
+  path: Assets/Audio/beltHandle1.ogg
+  artifactKey: Guid(142ef09c26b2943148a8f4db4a7cfea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/beltHandle1.ogg using Guid(142ef09c26b2943148a8f4db4a7cfea4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628f475d8b0a14653097d3eb57a25214') in 1.401149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000392 seconds.
+  path: Assets/Audio/doorClose_1.ogg
+  artifactKey: Guid(2b636330d142d4e57bd2c5bf049a8862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/doorClose_1.ogg using Guid(2b636330d142d4e57bd2c5bf049a8862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd447e41b773d26f064d5f9026dce167f') in 0.016562 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Audio/footstep04.ogg
+  artifactKey: Guid(cc03ce5ed291740b68724b8cfe5d69b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep04.ogg using Guid(cc03ce5ed291740b68724b8cfe5d69b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4b03ae08f0cb3aab9f3448fea3e1f63') in 0.018709 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Audio/clothBelt.ogg
+  artifactKey: Guid(cbe5ff8293f3d471a872c3d6db6e19bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/clothBelt.ogg using Guid(cbe5ff8293f3d471a872c3d6db6e19bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4a3c71e4ef3068b5b52a143e0c404b') in 0.019074 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000512 seconds.
+  path: Assets/Audio/cloth2.ogg
+  artifactKey: Guid(2d599e233b9c04542824de9ad0bb015c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/cloth2.ogg using Guid(2d599e233b9c04542824de9ad0bb015c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1a7d92b501468ff962cafe7c7623921') in 0.024662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001077 seconds.
+  path: Assets/Audio/cloth1.ogg
+  artifactKey: Guid(6fa30b75ac0d14170aaedc805fcad95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/cloth1.ogg using Guid(6fa30b75ac0d14170aaedc805fcad95c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4094c153bc6fa61a5a5c898de3dd1de8') in 0.030281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000857 seconds.
+  path: Assets/Audio/bookOpen.ogg
+  artifactKey: Guid(7b3e4c505572b4fbfa4f554e51b49837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/bookOpen.ogg using Guid(7b3e4c505572b4fbfa4f554e51b49837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219484a5e82157d25cd42cdc21a2bd5a') in 0.021354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Audio/bookFlip3.ogg
+  artifactKey: Guid(8785a275fc94f4e1db7859b478ea0f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/bookFlip3.ogg using Guid(8785a275fc94f4e1db7859b478ea0f1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57909bc877ed5f20561e2e8b2eba119d') in 0.021410 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.012544 seconds.
+  path: Assets/Audio/bookPlace3.ogg
+  artifactKey: Guid(0302b5fd875d94466811ae644dcd8839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/bookPlace3.ogg using Guid(0302b5fd875d94466811ae644dcd8839) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3ae468a96cae7d1c80a0732edb10ab') in 0.020595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000408 seconds.
+  path: Assets/Audio/doorOpen_2.ogg
+  artifactKey: Guid(0d4bb3f51fe0b452bbefca5987586fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/doorOpen_2.ogg using Guid(0d4bb3f51fe0b452bbefca5987586fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0406072a62debf742f94ab37218ff9d') in 0.030728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.003195 seconds.
+  path: Assets/Audio/clothBelt2.ogg
+  artifactKey: Guid(a07f9e1aeba19401ab4f970523ca01e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/clothBelt2.ogg using Guid(a07f9e1aeba19401ab4f970523ca01e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9ca61d397b4a2303b6dad793a7701b1') in 0.026171 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000655 seconds.
+  path: Assets/Audio/footstep05.ogg
+  artifactKey: Guid(fec405e513612408fb10f7c0c2239ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep05.ogg using Guid(fec405e513612408fb10f7c0c2239ffe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329f7e142800d2a069b7e16ecd322cfe') in 0.017153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001147 seconds.
+  path: Assets/Audio/footstep01.ogg
+  artifactKey: Guid(8919ecbe0a09541ef8aee3747e336b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep01.ogg using Guid(8919ecbe0a09541ef8aee3747e336b66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d4fa45ae58a194508a1e721f65614a0') in 0.021610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Audio/doorClose_4.ogg
+  artifactKey: Guid(a689018ee54f449c1b78343392e83c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/doorClose_4.ogg using Guid(a689018ee54f449c1b78343392e83c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ec518bb26c1cffc1386a99718020a6b') in 0.031005 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Audio/footstep00.ogg
+  artifactKey: Guid(9ec8911fe40dd4a928612bf9fb0a41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep00.ogg using Guid(9ec8911fe40dd4a928612bf9fb0a41fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c03fee38d9b180ddf921ced40786387') in 0.018849 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Audio/footstep08.ogg
+  artifactKey: Guid(3697f988d0b9c4b1dac9cb05e92cffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep08.ogg using Guid(3697f988d0b9c4b1dac9cb05e92cffea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfe372bab30b1b3afbb7a4e8e7a48efa') in 0.021777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Audio/bookClose.ogg
+  artifactKey: Guid(92989928c3c364244a1529c703f96a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/bookClose.ogg using Guid(92989928c3c364244a1529c703f96a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0eab6238bb55c5ff0497136175871bd') in 0.021763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Audio/bookFlip1.ogg
+  artifactKey: Guid(5dc3866bb80d94929870e6e8925fd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/bookFlip1.ogg using Guid(5dc3866bb80d94929870e6e8925fd968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07e6f0c77d1c8f97ed11848c8daf9220') in 0.035895 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.004157 seconds.
+  path: Assets/Audio/drawKnife2.ogg
+  artifactKey: Guid(09a0329899f344494a3f670798db6d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/drawKnife2.ogg using Guid(09a0329899f344494a3f670798db6d06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8760ed8b8faff11ec91670261f48738a') in 0.025039 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Audio/footstep09.ogg
+  artifactKey: Guid(ff0bcebe36ab741a8abd33a4194ab60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/footstep09.ogg using Guid(ff0bcebe36ab741a8abd33a4194ab60f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7bfc0e474e271a049f4dd4a7c33c23b') in 0.022549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 16.754867 seconds.
+  path: Assets/Audio/handleCoins.ogg
+  artifactKey: Guid(dc9d0c63166d240e9b80835ea20936a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/handleCoins.ogg using Guid(dc9d0c63166d240e9b80835ea20936a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea071fbf28baaf53354f813032ebfe8f') in 0.013071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Audio/metalPot2.ogg
+  artifactKey: Guid(c7da9d106e9e642bd85f8e4f0c077823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/metalPot2.ogg using Guid(c7da9d106e9e642bd85f8e4f0c077823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd587e1fd8b1c4f43f96ad2032fe21d48') in 0.035369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Audio/handleSmallLeather2.ogg
+  artifactKey: Guid(e1bcb4fef541b43bf88edea5e90c4b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/handleSmallLeather2.ogg using Guid(e1bcb4fef541b43bf88edea5e90c4b0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35b540458ced12deaaf3672e963b6033') in 0.025212 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Audio/metalLatch.ogg
+  artifactKey: Guid(27dcc1e1eab8145d58c12e8a572b9ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/metalLatch.ogg using Guid(27dcc1e1eab8145d58c12e8a572b9ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2412b732d03e2fd9343085887dead341') in 0.028202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Audio/knifeSlice2.ogg
+  artifactKey: Guid(ac2859631db9a4f508c23436ff91bce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/knifeSlice2.ogg using Guid(ac2859631db9a4f508c23436ff91bce4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c697cb43beaf459edfd71c4f139d441') in 0.012607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.078 seconds
+Refreshing native plugins compatible for Editor in 4.83 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.630 seconds
+Domain Reload Profiling: 6711ms
+	BeginReloadAssembly (838ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (87ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (397ms)
+	RebuildCommonClasses (133ms)
+	RebuildNativeTypeToScriptingClass (35ms)
+	initialDomainReloadingComplete (78ms)
+	LoadAllAssembliesAndSetupDomain (996ms)
+		LoadAssemblies (974ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (261ms)
+			TypeCache.Refresh (40ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (144ms)
+			ResolveRequiredComponents (67ms)
+	FinalizeReload (4631ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1735ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (16ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (245ms)
+			ProcessInitializeOnLoadAttributes (1219ms)
+			ProcessInitializeOnLoadMethodAttributes (229ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (49ms)
+Refreshing native plugins compatible for Editor in 4.99 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6966.
+Memory consumption went from 343.7 MB to 343.2 MB.
+Total: 11.634314 ms (FindLiveObjects: 1.003824 ms CreateObjectMapping: 0.857158 ms MarkObjects: 9.146148 ms  DeleteObjects: 0.624134 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 390.497568 seconds.
+  path: Assets/_Scripts/Player/PlayerRunState.cs
+  artifactKey: Guid(9453676a1cd1d4bd7a1695bd73e9982e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/Player/PlayerRunState.cs using Guid(9453676a1cd1d4bd7a1695bd73e9982e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98950e6dc3c5d0951c3f82930d0cac39') in 0.004120 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.222 seconds
+Refreshing native plugins compatible for Editor in 3.91 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.889 seconds
+Domain Reload Profiling: 5111ms
+	BeginReloadAssembly (392ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (28ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (158ms)
+	RebuildCommonClasses (95ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (650ms)
+		LoadAssemblies (638ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (147ms)
+			TypeCache.Refresh (20ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (87ms)
+			ResolveRequiredComponents (33ms)
+	FinalizeReload (3890ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1510ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (20ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (201ms)
+			ProcessInitializeOnLoadAttributes (1060ms)
+			ProcessInitializeOnLoadMethodAttributes (213ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (47ms)
+Refreshing native plugins compatible for Editor in 4.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6971.
+Memory consumption went from 342.7 MB to 342.2 MB.
+Total: 12.650638 ms (FindLiveObjects: 1.809785 ms CreateObjectMapping: 0.750116 ms MarkObjects: 9.291362 ms  DeleteObjects: 0.796393 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 38.019858 seconds.
+  path: Assets/_Scripts/Player/PlayerRunState.cs
+  artifactKey: Guid(9453676a1cd1d4bd7a1695bd73e9982e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_Scripts/Player/PlayerRunState.cs using Guid(9453676a1cd1d4bd7a1695bd73e9982e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f678684e831ba5215cd2e13d8fc8e2d6') in 0.005950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.463 seconds
+Refreshing native plugins compatible for Editor in 3.46 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.807 seconds
+Domain Reload Profiling: 5272ms
+	BeginReloadAssembly (483ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (170ms)
+	RebuildCommonClasses (113ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (772ms)
+		LoadAssemblies (820ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (170ms)
+			TypeCache.Refresh (25ms)
+				TypeCache.ScanAssembly (2ms)
+			ScanForSourceGeneratedMonoScriptInfo (105ms)
+			ResolveRequiredComponents (33ms)
+	FinalizeReload (3808ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1378ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (180ms)
+			ProcessInitializeOnLoadAttributes (982ms)
+			ProcessInitializeOnLoadMethodAttributes (183ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (37ms)
+Refreshing native plugins compatible for Editor in 4.45 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6976.
+Memory consumption went from 341.6 MB to 341.1 MB.
+Total: 11.436375 ms (FindLiveObjects: 0.890644 ms CreateObjectMapping: 0.696346 ms MarkObjects: 9.078730 ms  DeleteObjects: 0.768073 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.579 seconds
+Refreshing native plugins compatible for Editor in 3.94 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.680 seconds
+Domain Reload Profiling: 5263ms
+	BeginReloadAssembly (595ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (47ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (241ms)
+	RebuildCommonClasses (103ms)
+	RebuildNativeTypeToScriptingClass (31ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (784ms)
+		LoadAssemblies (845ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (161ms)
+			TypeCache.Refresh (34ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (87ms)
+			ResolveRequiredComponents (32ms)
+	FinalizeReload (3682ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1384ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (22ms)
+			SetLoadedEditorAssemblies (13ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (191ms)
+			ProcessInitializeOnLoadAttributes (968ms)
+			ProcessInitializeOnLoadMethodAttributes (186ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (39ms)
+Refreshing native plugins compatible for Editor in 4.23 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 6981.
+Memory consumption went from 341.9 MB to 341.4 MB.
+Total: 11.503898 ms (FindLiveObjects: 0.861806 ms CreateObjectMapping: 0.656535 ms MarkObjects: 9.253996 ms  DeleteObjects: 0.729963 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 716.874172 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_carpet_000.ogg
+  artifactKey: Guid(eee0ca2f46efe4136983604b54db9de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_carpet_000.ogg using Guid(eee0ca2f46efe4136983604b54db9de3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5e01ff8c05eb7fceb7db9765cd89f22') in 1.558980 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001352 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_000.ogg
+  artifactKey: Guid(1df871d9d1db3491a8ce467a5109a049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_000.ogg using Guid(1df871d9d1db3491a8ce467a5109a049) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1497f63dff60697115bbd2c1a98c6806') in 0.058555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_001.ogg
+  artifactKey: Guid(f4f9b452c54ed44baac0909395fc45e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_001.ogg using Guid(f4f9b452c54ed44baac0909395fc45e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2a03cbf16112ab1679a8832df6e4b2') in 0.020620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000381 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_003.ogg
+  artifactKey: Guid(cde24f58f7c1343cebfc2b67f70007f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_003.ogg using Guid(cde24f58f7c1343cebfc2b67f70007f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ea7e3f5dca1a0a67ca68094c3f00ada') in 0.136307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_heavy_002.ogg
+  artifactKey: Guid(08af6a138065049cf81706ff11c5e922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_heavy_002.ogg using Guid(08af6a138065049cf81706ff11c5e922) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e44bd8c8ff49be214c58a6f44ec71b5') in 0.044842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000674 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_003.ogg
+  artifactKey: Guid(364a9da04d23543b0acc14bf60e98767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_003.ogg using Guid(364a9da04d23543b0acc14bf60e98767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0498170fb36c85b438d43bd6cced6d63') in 0.019946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_004.ogg
+  artifactKey: Guid(c315897a0c5e94ac1b7dfc05223d37e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_004.ogg using Guid(c315897a0c5e94ac1b7dfc05223d37e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa7460e5c10d8d0d23b2eccb5c5ded0c') in 0.022607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002989 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_000.ogg
+  artifactKey: Guid(ae35782f48b51468aac8902589721d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_concrete_000.ogg using Guid(ae35782f48b51468aac8902589721d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837d0457ee63f6681320090fd9c2c2f2') in 0.054500 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002215 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactBell_heavy_001.ogg
+  artifactKey: Guid(eb12ded7e95c94d4ea1bf4a114fd64a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactBell_heavy_001.ogg using Guid(eb12ded7e95c94d4ea1bf4a114fd64a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b65697dabb3e2a47232e2a3ef1093dd') in 0.024584 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_004.ogg
+  artifactKey: Guid(8dba2b0e9626b4eb082404fc3909ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_004.ogg using Guid(8dba2b0e9626b4eb082404fc3909ee1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04e70d3d339a4eb6bb29e69ba3e9838c') in 0.015791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000460 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_carpet_003.ogg
+  artifactKey: Guid(62c8094b9216649da8dfd303d35c848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_carpet_003.ogg using Guid(62c8094b9216649da8dfd303d35c848f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cadbe45593aa169dad6bc5076e4c3de') in 0.020949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_snow_002.ogg
+  artifactKey: Guid(f91c62fe95a604161b11eea433ec2775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_snow_002.ogg using Guid(f91c62fe95a604161b11eea433ec2775) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8297cdb7e1f85417d7d22afb9c0d5489') in 0.033179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_001.ogg
+  artifactKey: Guid(e56b1fabf1e4746dab1c4707fa664027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_001.ogg using Guid(e56b1fabf1e4746dab1c4707fa664027) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f0852588538b7265375de204d108c0d') in 0.026827 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001434 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_003.ogg
+  artifactKey: Guid(91399a1f3a07a41af9885031f616f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_003.ogg using Guid(91399a1f3a07a41af9885031f616f808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '727621c19f74ef3937de4a49015befab') in 0.022350 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_004.ogg
+  artifactKey: Guid(4e136e40faf954e51a5497c9cf94e865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_004.ogg using Guid(4e136e40faf954e51a5497c9cf94e865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05ef3b3695ce2cb48321b59316b7dac8') in 0.019055 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactBell_heavy_003.ogg
+  artifactKey: Guid(d07c28687f9e144f1b2db18667f6d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactBell_heavy_003.ogg using Guid(d07c28687f9e144f1b2db18667f6d474) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1777be9f77e8dcf95cbd4c7afb43243') in 0.026872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001708 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_004.ogg
+  artifactKey: Guid(eecb95057d6844012a78aa923e162100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_wood_004.ogg using Guid(eecb95057d6844012a78aa923e162100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87c40a56c3b9779a337c78746a0906b5') in 0.021301 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001456 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_000.ogg
+  artifactKey: Guid(7d5c09219a4e04c0889d56a8bb84bc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGeneric_light_000.ogg using Guid(7d5c09219a4e04c0889d56a8bb84bc0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198c9e0666f58c89bf02cc145f54220a') in 0.021462 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_002.ogg
+  artifactKey: Guid(498553247f8a04be09e5154475576228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_grass_002.ogg using Guid(498553247f8a04be09e5154475576228) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79955c0c2bc5a2a3be0e9174fc1d8fa3') in 0.023979 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.002594 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/footstep_snow_001.ogg
+  artifactKey: Guid(015d2440dcf3a4ee59333d03851f810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/footstep_snow_001.ogg using Guid(015d2440dcf3a4ee59333d03851f810f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcae3bd00bf739e29a803a03c808d02') in 0.037947 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 9.516279 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_000.ogg
+  artifactKey: Guid(0f855a09fc8b342a882d1ef9948622ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_000.ogg using Guid(0f855a09fc8b342a882d1ef9948622ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35220e01d017071f499529dc5152d6e1') in 0.016458 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_003.ogg
+  artifactKey: Guid(3d6d1c0ede66a482692f91663fbd4261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_003.ogg using Guid(3d6d1c0ede66a482692f91663fbd4261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01a01fcb2ff7c88442cee2dc14322b03') in 0.012772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000101 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_002.ogg
+  artifactKey: Guid(ed835b00b56e943d18fbd5e2ab7f167f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_002.ogg using Guid(ed835b00b56e943d18fbd5e2ab7f167f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2eb4c4f53b5d2b0ac3cdc0dc705d55d') in 0.019628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000602 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_heavy_001.ogg
+  artifactKey: Guid(da281f591693540bea210fb94c8d7bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_heavy_001.ogg using Guid(da281f591693540bea210fb94c8d7bfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16b2e976eab6941bb6cf49d2153a349a') in 0.034881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_light_003.ogg
+  artifactKey: Guid(129fec097bcd246c4bb9181d89d8b547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_light_003.ogg using Guid(129fec097bcd246c4bb9181d89d8b547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17d951e9d6b4e3d8882fe9db49178e74') in 0.016021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_000.ogg
+  artifactKey: Guid(2cbecee2b60c84b3eb819205d9b7f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_000.ogg using Guid(2cbecee2b60c84b3eb819205d9b7f421) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4125aba565e626381d18a82e8fb70450') in 0.014558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000431 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_002.ogg
+  artifactKey: Guid(faad9127ef1b14f9eb30ae300246fc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_002.ogg using Guid(faad9127ef1b14f9eb30ae300246fc79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1e1629d816da7f85fdc9729f297d1fe') in 0.015952 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_004.ogg
+  artifactKey: Guid(bf4938cd3db2a412a83023077b865357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_004.ogg using Guid(bf4938cd3db2a412a83023077b865357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19fb9c3e9425bf5f024079a146cd8562') in 0.023226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_heavy_004.ogg
+  artifactKey: Guid(8cffcb184c1c34e8ebec229a3fae005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_heavy_004.ogg using Guid(8cffcb184c1c34e8ebec229a3fae005f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2cf54cacafc7103ce06ae0cf3ed2b8b') in 0.016989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000144 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_003.ogg
+  artifactKey: Guid(61bed32e7347142b5afe11556f3d163a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_003.ogg using Guid(61bed32e7347142b5afe11556f3d163a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546914521e33edae977a8dc48ed1646c') in 0.031681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_medium_004.ogg
+  artifactKey: Guid(a9b1b8fffc52441abaee615f3397d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_medium_004.ogg using Guid(a9b1b8fffc52441abaee615f3397d941) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9d1f559bf75ad41e3d4d83ccfc9aa4') in 0.015956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_004.ogg
+  artifactKey: Guid(2ef2f37e930eb40d68892ba201414cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactGlass_light_004.ogg using Guid(2ef2f37e930eb40d68892ba201414cb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6a7b109c26b29c2aaa07a998a8bf0f') in 0.034101 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001012 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_001.ogg
+  artifactKey: Guid(a0b47940e31a14f1cb87a7fbf34989cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMetal_medium_001.ogg using Guid(a0b47940e31a14f1cb87a7fbf34989cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3e8d782abb895ffdb2ca4f6bc3fd20') in 0.021950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.360768 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMining_001.ogg
+  artifactKey: Guid(45a3399e54b884f77a35fa8fd218c83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMining_001.ogg using Guid(45a3399e54b884f77a35fa8fd218c83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad913fc44de74bd532ac3dc3d398ab4') in 0.013307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000606 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_002.ogg
+  artifactKey: Guid(25afc4a1f04624e629325364c4d1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_002.ogg using Guid(25afc4a1f04624e629325364c4d1ba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf16d66e390ffb0724efef99ea2fde1c') in 0.016533 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_001.ogg
+  artifactKey: Guid(1e22452ed5e354ea6996f6be8de1f89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_001.ogg using Guid(1e22452ed5e354ea6996f6be8de1f89a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '628882c0d766bad5a204346287b76867') in 0.022086 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000143 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_000.ogg
+  artifactKey: Guid(e8710aefb5367416ba2b66f4bc5ac820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_000.ogg using Guid(e8710aefb5367416ba2b66f4bc5ac820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e88f4080204e4295868e7fa48d500c91') in 0.015257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000625 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactMining_003.ogg
+  artifactKey: Guid(1f250513aaaf6433b86bbecfde49615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactMining_003.ogg using Guid(1f250513aaaf6433b86bbecfde49615f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9471dce8bb69289691904bafcda7012') in 0.013290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_004.ogg
+  artifactKey: Guid(f426930d7bebe4494befa31dec69028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlank_medium_004.ogg using Guid(f426930d7bebe4494befa31dec69028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83d8bcb719986ee7d05afba29a2f9bc7') in 0.021685 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_003.ogg
+  artifactKey: Guid(2a758f05c0142447e914efc8503e3ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_003.ogg using Guid(2a758f05c0142447e914efc8503e3ce6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc555b5b2fb0ed19b689eab3558cfb9') in 0.012938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.079937 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_004.ogg
+  artifactKey: Guid(435695fe8caf24f08b0c39f92b21b8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_heavy_004.ogg using Guid(435695fe8caf24f08b0c39f92b21b8c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2693b677cfed0df35677ee4f91abde1a') in 0.018134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_medium_003.ogg
+  artifactKey: Guid(e963a937c4fa2437aa55163588a458fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_medium_003.ogg using Guid(e963a937c4fa2437aa55163588a458fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05973a8b09d89595aee8b7d844d1510c') in 0.046779 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_medium_004.ogg
+  artifactKey: Guid(5c53942eefa2843d6a44ac214ebfb34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_medium_004.ogg using Guid(5c53942eefa2843d6a44ac214ebfb34b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc03601c6c52e9a2961d781c0a38cd1') in 0.013078 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_000.ogg
+  artifactKey: Guid(8932a35cb46e746369ea48402e15b7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_000.ogg using Guid(8932a35cb46e746369ea48402e15b7d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760100835d3b897208a5bb121b7f97ad') in 0.014912 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000926 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_light_004.ogg
+  artifactKey: Guid(2214ef2b49d5d4a0dbce5a65027829d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_light_004.ogg using Guid(2214ef2b49d5d4a0dbce5a65027829d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96da1fb7525af67e284579e0ae8dd0fb') in 0.013072 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPlate_light_003.ogg
+  artifactKey: Guid(12bf9338c939a4453bb5ef55bfbc0e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPlate_light_003.ogg using Guid(12bf9338c939a4453bb5ef55bfbc0e42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37ffe8a81dc89c168a107cc6ebfea932') in 0.020018 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 55.103957 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_002.ogg
+  artifactKey: Guid(f4b07f53046894812962056a27f305ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_002.ogg using Guid(f4b07f53046894812962056a27f305ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8eca3e1dcf86624d4059ab162f4aab') in 0.019361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_004.ogg
+  artifactKey: Guid(627661e5daedc4843a4bcb9f52a092ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_heavy_004.ogg using Guid(627661e5daedc4843a4bcb9f52a092ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86bf8b19eadcb323dfefb05c43ab1284') in 0.013372 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_002.ogg
+  artifactKey: Guid(7f915c04aca554c47a9fbd66a400f6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_002.ogg using Guid(7f915c04aca554c47a9fbd66a400f6e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3174ed80f96b2c8bb6aec6a4c418722') in 0.021920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_004.ogg
+  artifactKey: Guid(9ef151cf470eb4caabedda774c9caf0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_004.ogg using Guid(9ef151cf470eb4caabedda774c9caf0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a382af4a384eac6f06fa3f648512eef5') in 0.020819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_001.ogg
+  artifactKey: Guid(e8792d477f2c347e8a67f7640d3d8fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactPunch_medium_001.ogg using Guid(e8792d477f2c347e8a67f7640d3d8fd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7299c5a643df86485fa428a16702fe') in 0.018545 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactSoft_heavy_003.ogg
+  artifactKey: Guid(215f351f84f444a8c91abb0a5716275a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactSoft_heavy_003.ogg using Guid(215f351f84f444a8c91abb0a5716275a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce30ef9bc583b492896e15203a4575d4') in 0.013436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.784390 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactSoft_medium_000.ogg
+  artifactKey: Guid(eee9f2589cf794616ae2409838a6e3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactSoft_medium_000.ogg using Guid(eee9f2589cf794616ae2409838a6e3b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64ee2e7d3ad8f913b9353e059aff2474') in 0.012611 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000571 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_004.ogg
+  artifactKey: Guid(53cde391254a1427390ea21c143b08eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_004.ogg using Guid(53cde391254a1427390ea21c143b08eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe52164c02bdad97155bd801f51c33f5') in 0.016923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_000.ogg
+  artifactKey: Guid(8aeecf0e7927d424cac77deee7c5d9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_000.ogg using Guid(8aeecf0e7927d424cac77deee7c5d9aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1fecc538a9b3d32f23eb534fa89f378') in 0.018113 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_001.ogg
+  artifactKey: Guid(e55add73f956e44c6bec34f952e721a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_001.ogg using Guid(e55add73f956e44c6bec34f952e721a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4120168d6ba5e061b00dc91ed66f8f33') in 0.024878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000126 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_002.ogg
+  artifactKey: Guid(83fb36c677dd2464babf9c47af79061e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_002.ogg using Guid(83fb36c677dd2464babf9c47af79061e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f76f6ee1891221eda7b9715e0c83517') in 0.017296 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_003.ogg
+  artifactKey: Guid(c9719eee11c3946d4ad4d165914af21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactTin_medium_003.ogg using Guid(c9719eee11c3946d4ad4d165914af21f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '489ace4dd2eef51406bdb434fcc02c2f') in 0.012991 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.471088 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_heavy_003.ogg
+  artifactKey: Guid(83763d8daf98c4838ad13de8406beecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_heavy_003.ogg using Guid(83763d8daf98c4838ad13de8406beecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ff5d22d5f717852fb1b7e6e8d0c031') in 0.013440 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_003.ogg
+  artifactKey: Guid(1191fb87e00c946b990322b7a427c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_003.ogg using Guid(1191fb87e00c946b990322b7a427c201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf0ac81e9ae78331e464531a59d4e0ea') in 0.018919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_light_003.ogg
+  artifactKey: Guid(641eb03c77b17483ea7adb7672e517db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_light_003.ogg using Guid(641eb03c77b17483ea7adb7672e517db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7962af0a47e1c8a4456c405490e67325') in 0.013198 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_001.ogg
+  artifactKey: Guid(ebc1137c6ece74dbbbeb402cc5ab47fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_001.ogg using Guid(ebc1137c6ece74dbbbeb402cc5ab47fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60bf0d48ea40b226b439282656e9921') in 0.028180 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_light_001.ogg
+  artifactKey: Guid(e40b73ff9667c43008ca0a95636559c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_light_001.ogg using Guid(e40b73ff9667c43008ca0a95636559c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6e49dde1a39f60e66d3dfcb9684fff') in 0.019071 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000117 seconds.
+  path: Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_000.ogg
+  artifactKey: Guid(faaaeb99e6af4486b934ba129081263e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_impact-sounds/Audio/impactWood_medium_000.ogg using Guid(faaaeb99e6af4486b934ba129081263e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5218735ca7c956505d003d50ea6f3b31') in 0.016842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 83.760061 seconds.
+  path: Assets/Prefabs/Player/Player.prefab
+  artifactKey: Guid(6dfaa0ce448234cb987089da32e16139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player/Player.prefab using Guid(6dfaa0ce448234cb987089da32e16139) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e2bfad1f43895e22eeba2cc8eb7a4a') in 1.449961 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 41
+========================================================================
+Received Import Request.
+  Time since last request: 4.788590 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES00.ogg
+  artifactKey: Guid(176f38863370e48b98205b4ecde31890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES00.ogg using Guid(176f38863370e48b98205b4ecde31890) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c291586d157f514e69640732c6e3aac3') in 0.019630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES10.ogg
+  artifactKey: Guid(4190710f2cb4549a685541751840930b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES10.ogg using Guid(4190710f2cb4549a685541751840930b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ca9c1e62f20506e4abe17a8f4e7bf21') in 0.014786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000104 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES04.ogg
+  artifactKey: Guid(b3ec8d81f920e48eaa0f19ee330f4448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES04.ogg using Guid(b3ec8d81f920e48eaa0f19ee330f4448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '946d910025ef2fe6298664ee78260b1d') in 0.019200 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES16.ogg
+  artifactKey: Guid(ecf6a238726274bdbbe25fafc6f6bdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES16.ogg using Guid(ecf6a238726274bdbbe25fafc6f6bdbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '850adbdebc1a3133578dc3b0095ff68b') in 0.013002 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000123 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES11.ogg
+  artifactKey: Guid(fc6c0c8ef7b094dc09f668c5c07a21ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES11.ogg using Guid(fc6c0c8ef7b094dc09f668c5c07a21ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10130a393dbb49a2e4b5dd2fdcb87d5') in 0.018452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES06.ogg
+  artifactKey: Guid(e1dba463c7e2744ff8805a8390b32fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES06.ogg using Guid(e1dba463c7e2744ff8805a8390b32fb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b8ee74012617ad8802d431ae0904f1f') in 0.011506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES14.ogg
+  artifactKey: Guid(0f62e2cefaff341c5912e9c95658eb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES14.ogg using Guid(0f62e2cefaff341c5912e9c95658eb67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d85abdd93c3e14235c0d3507ef9860c') in 0.014026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000615 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES12.ogg
+  artifactKey: Guid(7ea500d9b8a4640029e9edee06a249d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES12.ogg using Guid(7ea500d9b8a4640029e9edee06a249d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f726174ce82b5a8dacc0f81405ee4cd9') in 0.011839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES05.ogg
+  artifactKey: Guid(accbb43a2a3414157a002d0714f27c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/8-Bit jingles/jingles_NES05.ogg using Guid(accbb43a2a3414157a002d0714f27c8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b184998ed0d67941f3a08e945c19437') in 0.012460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 18.325073 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI00.ogg
+  artifactKey: Guid(1ac76d66c92b34bbdb9afce9e5301a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI00.ogg using Guid(1ac76d66c92b34bbdb9afce9e5301a15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2caf38b961ebf630b38b5b63e00030e') in 0.016436 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI04.ogg
+  artifactKey: Guid(b054eaa3bd7724d76a67329ff0637671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI04.ogg using Guid(b054eaa3bd7724d76a67329ff0637671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '460ed6f904e60319aeb11187bd3c1c21') in 0.023465 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000089 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI07.ogg
+  artifactKey: Guid(9710659d71d00438aa95ebbb207c887b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI07.ogg using Guid(9710659d71d00438aa95ebbb207c887b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d1ced0f4b2196d63a753b0132bcfb8') in 0.031037 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI14.ogg
+  artifactKey: Guid(40ba1334a6c4643e5a6099f9b52a020f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI14.ogg using Guid(40ba1334a6c4643e5a6099f9b52a020f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6cd347d7350baafb35e9ae21140ae33') in 0.014941 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.001326 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI15.ogg
+  artifactKey: Guid(0df7cba543dfc4ebe95465abf6869551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI15.ogg using Guid(0df7cba543dfc4ebe95465abf6869551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cad73ba8e14e51ecc3bf8aa39b711a') in 0.028382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI03.ogg
+  artifactKey: Guid(9a5d8e32d4df44f6c963b3dffa6176a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI03.ogg using Guid(9a5d8e32d4df44f6c963b3dffa6176a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08c2c707e685135bff6d0a368c7c2fa8') in 0.014214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000425 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI10.ogg
+  artifactKey: Guid(d6327c5635022473aa2a191cb56d516a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI10.ogg using Guid(d6327c5635022473aa2a191cb56d516a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42527523fbb0d43bd31f504ea0e83543') in 0.025881 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000438 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI12.ogg
+  artifactKey: Guid(73ceddf22ea6e4e5cb42ed763a91d85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Pizzicato jingles/jingles_PIZZI12.ogg using Guid(73ceddf22ea6e4e5cb42ed763a91d85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d89669bbe8cd90f63c5296f047298ac') in 0.013708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.374131 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT00.ogg
+  artifactKey: Guid(1abe251326553483b850a96f10ab82d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT00.ogg using Guid(1abe251326553483b850a96f10ab82d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014ba997c9f36fdb55ee8b322a58ca46') in 0.014415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT09.ogg
+  artifactKey: Guid(7c9fb91d1d9194b1ea79d3f102ae230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT09.ogg using Guid(7c9fb91d1d9194b1ea79d3f102ae230a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bfcb66cd374e99263f5fbafc54e5cf8') in 0.013020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT14.ogg
+  artifactKey: Guid(d1cafbee715de4b259b9c7850d869c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT14.ogg using Guid(d1cafbee715de4b259b9c7850d869c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '931741b0440f6ff1296c5ecd9385bc7e') in 0.013345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT15.ogg
+  artifactKey: Guid(7f91217fc9ded4d8ebb790fca7675b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT15.ogg using Guid(7f91217fc9ded4d8ebb790fca7675b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b7e3904664eb278e770feaa73bb75ac') in 0.012675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT02.ogg
+  artifactKey: Guid(c92c14003f3764acd9c9e8ef1f2ef7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT02.ogg using Guid(c92c14003f3764acd9c9e8ef1f2ef7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '107efb323c6254c4d51bd6552bc7f5ee') in 0.016656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000132 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT11.ogg
+  artifactKey: Guid(783fccc091e89462abcf6748a1494fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT11.ogg using Guid(783fccc091e89462abcf6748a1494fb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5447d508368bd0dbeea415335ba76f70') in 0.024365 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT16.ogg
+  artifactKey: Guid(370ea42ac213f4e13b67b03fa2b0f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT16.ogg using Guid(370ea42ac213f4e13b67b03fa2b0f9b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a03285383e602e49763c00c191136cd') in 0.013843 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT05.ogg
+  artifactKey: Guid(072b4e1369f4542aeaf16113f229b01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT05.ogg using Guid(072b4e1369f4542aeaf16113f229b01a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37c54665ee7103b590269e37291bcc7') in 0.027040 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT04.ogg
+  artifactKey: Guid(07143fc5f30a14c7985ca6338e97c135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Hit jingles/jingles_HIT04.ogg using Guid(07143fc5f30a14c7985ca6338e97c135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51c04331ecddf86b693abdb0f67538ac') in 0.017658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 13.470352 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX00.ogg
+  artifactKey: Guid(7ac1c84022bf448a5bc4e48ca234365d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX00.ogg using Guid(7ac1c84022bf448a5bc4e48ca234365d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7d507d921b3eb7a7e67336b3f6cb521') in 0.016090 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX12.ogg
+  artifactKey: Guid(d88c9486c536548ba9ef24532eede0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX12.ogg using Guid(d88c9486c536548ba9ef24532eede0a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8bcb8c0b30de8c177e67438b985728a') in 0.012629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX13.ogg
+  artifactKey: Guid(96127109d9f6e405e93d5719ac42ea74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX13.ogg using Guid(96127109d9f6e405e93d5719ac42ea74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad803c317050946abe466d82d5c1091') in 0.014162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX06.ogg
+  artifactKey: Guid(babe5df45dc39448cb0849215ff44cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX06.ogg using Guid(babe5df45dc39448cb0849215ff44cc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b70d5a8e3583ebdc2cd9a1e56e11088') in 0.016158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX08.ogg
+  artifactKey: Guid(a97e10f9bdedd4ee699aaa97e93220fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX08.ogg using Guid(a97e10f9bdedd4ee699aaa97e93220fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b181aff19dcfecd3a8126418ffc328') in 0.012670 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX15.ogg
+  artifactKey: Guid(fb86d0589126e437e8af28099f651e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX15.ogg using Guid(fb86d0589126e437e8af28099f651e7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd456fc960b5a6cc2b086abee3b87fe59') in 0.014760 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX16.ogg
+  artifactKey: Guid(dda6456dc75c342d7b92cfca877fc208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX16.ogg using Guid(dda6456dc75c342d7b92cfca877fc208) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8480977ccef8bd7b3282493e28d164b') in 0.012774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000549 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX05.ogg
+  artifactKey: Guid(fa12ce4ba7a674116af7ee3b23818d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX05.ogg using Guid(fa12ce4ba7a674116af7ee3b23818d71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4929b7cf2028e981f40a66fbbab9ed36') in 0.020385 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX04.ogg
+  artifactKey: Guid(c23fc6fd1ae5e4f7fa3d20cb2343d593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Sax jingles/jingles_SAX04.ogg using Guid(c23fc6fd1ae5e4f7fa3d20cb2343d593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6480262be3a9ffdd4176e477b55a6a74') in 0.016680 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 5.219290 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL00.ogg
+  artifactKey: Guid(a447d69d1cf164174a29f5f4bc662c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL00.ogg using Guid(a447d69d1cf164174a29f5f4bc662c37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f61dcc4c101c2b99fb5e378fc0687180') in 0.014168 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL12.ogg
+  artifactKey: Guid(6e104c376169f424f8ef9bb306d1a4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL12.ogg using Guid(6e104c376169f424f8ef9bb306d1a4fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb1c1fb25a3901c91c1a510d46eebb65') in 0.012945 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL02.ogg
+  artifactKey: Guid(effe1c8fc23af451b8cd0fe9c9d78350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL02.ogg using Guid(effe1c8fc23af451b8cd0fe9c9d78350) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc10c7c7c4b0df75c9be9a9a22c0391c') in 0.013478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000128 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL08.ogg
+  artifactKey: Guid(aa4bb171f517c4717aa5592ec022e6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL08.ogg using Guid(aa4bb171f517c4717aa5592ec022e6ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '857efdb5b65003bf5db97a804cbbcb38') in 0.012758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL14.ogg
+  artifactKey: Guid(379a1197de91f4f33b98890e957299cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL14.ogg using Guid(379a1197de91f4f33b98890e957299cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1272aad37ae74ae31aca80a39ac0b048') in 0.016582 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL03.ogg
+  artifactKey: Guid(337cbef12378b49b6957a8f4a3c14b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL03.ogg using Guid(337cbef12378b49b6957a8f4a3c14b2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fddbf65f54f4f15479bbb8ebef004b2') in 0.013165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL07.ogg
+  artifactKey: Guid(d09ced31ded914fe1b50c17d2f736518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL07.ogg using Guid(d09ced31ded914fe1b50c17d2f736518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5f7cbec192f7fb94fcef8bd7e24aae') in 0.012427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL15.ogg
+  artifactKey: Guid(7394371ca0f1b4830aab4e9b83038d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL15.ogg using Guid(7394371ca0f1b4830aab4e9b83038d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40716ae0fde59418cbf27eca00c34e68') in 0.013257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL13.ogg
+  artifactKey: Guid(e5edbc06ac357402b8832451e79e7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Audio/Steel jingles/jingles_STEEL13.ogg using Guid(e5edbc06ac357402b8832451e79e7d25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7fe05a7b4c868be8fe9578cdc85234b') in 0.024757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 38.125214 seconds.
+  path: Assets/Audio/kenney_music-jingles/Preview.ogg
+  artifactKey: Guid(3da3eba9c74e6450f9c52bf1665e75dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_music-jingles/Preview.ogg using Guid(3da3eba9c74e6450f9c52bf1665e75dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9db4756b07ae19128776e410a8a1de') in 0.027181 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 64.068315 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Preview.ogg
+  artifactKey: Guid(27d9265b9858c469c94ee41d90ec39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Preview.ogg using Guid(27d9265b9858c469c94ee41d90ec39ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd44cf76958c7df814a55c9c1e8af093b') in 0.019642 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Preview (Male).ogg
+  artifactKey: Guid(c62e36771134a46eab0c0abb580e685b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Preview (Male).ogg using Guid(c62e36771134a46eab0c0abb580e685b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774886ab08517f9c6c5ae8ee44cf13c4') in 0.015286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 15.108222 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/1.ogg
+  artifactKey: Guid(4a229d4f43f6c45b9ab47fd29509f268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/1.ogg using Guid(4a229d4f43f6c45b9ab47fd29509f268) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75d56924b8239b766b89cffef22c050d') in 0.015733 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/9.ogg
+  artifactKey: Guid(93992ea86f0df4300a48c2c82cb6fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/9.ogg using Guid(93992ea86f0df4300a48c2c82cb6fb93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '551b9753b3a7d257be3df705208b990b') in 0.011455 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000136 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/hurry_up.ogg
+  artifactKey: Guid(56b9feeafd2ba46a2a0ca57085933d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/hurry_up.ogg using Guid(56b9feeafd2ba46a2a0ca57085933d39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1754c6d6955723f9ac1fb83b7f0aff62') in 0.016984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/go.ogg
+  artifactKey: Guid(5c3983beb4bb94cee921abd44ba8ddf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/go.ogg using Guid(5c3983beb4bb94cee921abd44ba8ddf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '756e2c4ed8d1589684da767cc60d265a') in 0.014313 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000486 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/mission_failed.ogg
+  artifactKey: Guid(7fad3e37faa554ef592cff4d1cb8826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/mission_failed.ogg using Guid(7fad3e37faa554ef592cff4d1cb8826d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72b6b7cd15b81336d39d04af6a7548e9') in 0.015125 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000750 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/war_go_go_go.ogg
+  artifactKey: Guid(ff757c6f2e9da4bbebfcc593c62fb948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/war_go_go_go.ogg using Guid(ff757c6f2e9da4bbebfcc593c62fb948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '228a623c3e87d3e504e7a7980e4ea828') in 0.026987 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/wrong.ogg
+  artifactKey: Guid(e7e8dd959942e45659724a949371389c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/wrong.ogg using Guid(e7e8dd959942e45659724a949371389c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '483b5515cd2cf192c3b7067108ffd587') in 0.019668 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/4.ogg
+  artifactKey: Guid(29ae9f404f34b49f99c72e1a1a334db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/4.ogg using Guid(29ae9f404f34b49f99c72e1a1a334db3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4cc7f90d5751eb38291cdd240860c0bf') in 0.010751 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/war_look_out.ogg
+  artifactKey: Guid(0613eaef240ed4b9c909c35d39305def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/war_look_out.ogg using Guid(0613eaef240ed4b9c909c35d39305def) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc9fc0061feae3961323adabe17f8e51') in 0.012618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000120 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/10.ogg
+  artifactKey: Guid(77702796c64d544ca922865d0306afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/10.ogg using Guid(77702796c64d544ca922865d0306afe9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10b0581c3fe606abacb6f05177b60150') in 0.012376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000351 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/set.ogg
+  artifactKey: Guid(7bc943e9c8e2843a4b64493d8925a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/set.ogg using Guid(7bc943e9c8e2843a4b64493d8925a564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15b5500e658eeaa44e1d371640e28975') in 0.014569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000092 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/8.ogg
+  artifactKey: Guid(81d5dd2b2a4884fdfa467e4b92b62879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/8.ogg using Guid(81d5dd2b2a4884fdfa467e4b92b62879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8dd3e508f3b93403018316955db71ef') in 0.027697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/war_cover_me.ogg
+  artifactKey: Guid(530456c409d594251bd143654efd489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/war_cover_me.ogg using Guid(530456c409d594251bd143654efd489e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832562e648aaffc5965f598b8fafa8a0') in 0.022711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/6.ogg
+  artifactKey: Guid(f1c7f7162b3b740eaa9d71e1d5ef4ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/6.ogg using Guid(f1c7f7162b3b740eaa9d71e1d5ef4ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94f5897282ac49ceb5cf37f362efa493') in 0.014509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/war_rpg.ogg
+  artifactKey: Guid(acdc4e3818d544b5d971f0992b1df86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/war_rpg.ogg using Guid(acdc4e3818d544b5d971f0992b1df86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7c3b5e0101d5c04d7cec1def15ca6bb') in 0.016604 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/objective_achieved.ogg
+  artifactKey: Guid(2330255deea8c42aab580032d0fd159f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/objective_achieved.ogg using Guid(2330255deea8c42aab580032d0fd159f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f586e973c010a806e342bdfade0f769') in 0.024437 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/3.ogg
+  artifactKey: Guid(ff790b30cf255457c84b9a38e854dc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/3.ogg using Guid(ff790b30cf255457c84b9a38e854dc76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee23b65029448a21ee8abc4453e364e7') in 0.017359 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/congratulations.ogg
+  artifactKey: Guid(77eed3418e33f4c179c2fe25288848ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/congratulations.ogg using Guid(77eed3418e33f4c179c2fe25288848ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd6b8563a03312b8fc56c987f1a3c8d9') in 0.027687 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/7.ogg
+  artifactKey: Guid(6aacdbf55525245b0874a10569566509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/7.ogg using Guid(6aacdbf55525245b0874a10569566509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64e9d5a81d07066bb622beb558ca5cde') in 0.019076 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/5.ogg
+  artifactKey: Guid(390373cfc434543658a859c2268ddbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/5.ogg using Guid(390373cfc434543658a859c2268ddbfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1409f7b5a547742454eae985d979b52') in 0.014052 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/war_target_destroyed.ogg
+  artifactKey: Guid(66475ae2d9f5b47e8b31906ec88fb0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/war_target_destroyed.ogg using Guid(66475ae2d9f5b47e8b31906ec88fb0f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5837ff995cbef04b0563cfeb41553ba') in 0.024122 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000887 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/round.ogg
+  artifactKey: Guid(f2d56e2befc2c4db8ad5d620ab239d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/round.ogg using Guid(f2d56e2befc2c4db8ad5d620ab239d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14b9006c1c56bceccfdcc550abe9749e') in 0.017443 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Audio/kenney_voiceover-pack/Male/correct.ogg
+  artifactKey: Guid(744e9813da34b4353a2d8531121cb4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack/Male/correct.ogg using Guid(744e9813da34b4353a2d8531121cb4ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5833db1c7849d7942cd20b18833ba8') in 0.015227 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 72.533443 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/1.ogg
+  artifactKey: Guid(89e80bcf50d0541749775b6f6c24cfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/1.ogg using Guid(89e80bcf50d0541749775b6f6c24cfc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6b360528af33f3a105e0af5e40d1cb1') in 0.025575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/game_over.ogg
+  artifactKey: Guid(2cc61e40732df4c39b3b6fbcc383fb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/game_over.ogg using Guid(2cc61e40732df4c39b3b6fbcc383fb84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3867ad6c476ec28d1dc798677ae5862c') in 0.015933 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/you_lose.ogg
+  artifactKey: Guid(e2dbec75d42424e869baf984dd11d904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/you_lose.ogg using Guid(e2dbec75d42424e869baf984dd11d904) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb671431332086d89d54e4e5c2d0640') in 0.016702 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_1.ogg
+  artifactKey: Guid(57df8ab87167348b09221d7f25f9a6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_1.ogg using Guid(57df8ab87167348b09221d7f25f9a6f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ed9f550c1e4a03ab7c24ecc49cfd7e4') in 0.039654 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/9.ogg
+  artifactKey: Guid(0083a5996d1b04c7bb768dbd5e737425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/9.ogg using Guid(0083a5996d1b04c7bb768dbd5e737425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ed8513f5eec0f234f9faaacad21c4e') in 0.010098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/5.ogg
+  artifactKey: Guid(dc5fa5967a66b49f8a6a0439a21f9e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/5.ogg using Guid(dc5fa5967a66b49f8a6a0439a21f9e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b57266059ccb205ca98ac957f10adc2') in 0.012127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/tie_breaker.ogg
+  artifactKey: Guid(759363a6919b94dce8e6a872896a30c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/tie_breaker.ogg using Guid(759363a6919b94dce8e6a872896a30c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b6618ea278d554d6a25966d61a36053') in 0.011824 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/tie.ogg
+  artifactKey: Guid(1fda4cde2184f4b41828e845d1524d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/tie.ogg using Guid(1fda4cde2184f4b41828e845d1524d40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67d60b7298a5882e3ec5cedae5bcdbbd') in 0.018243 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/final_round.ogg
+  artifactKey: Guid(c45b1ca713f2c42bf9940f49de3e3cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/final_round.ogg using Guid(c45b1ca713f2c42bf9940f49de3e3cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d63709ea09416756e1e684df69ecb6') in 0.021471 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_3.ogg
+  artifactKey: Guid(374c947253a7543d88401ae2c91db2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_3.ogg using Guid(374c947253a7543d88401ae2c91db2b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd59a9c9ac4829daeaaf422561e49c1b8') in 0.019919 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000071 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/survival_mode.ogg
+  artifactKey: Guid(969201071d9a24bfbb3b9c93ff3c75b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/survival_mode.ogg using Guid(969201071d9a24bfbb3b9c93ff3c75b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f1b243477e98be454e5368aeab4464') in 0.022263 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/flawless_victory.ogg
+  artifactKey: Guid(a1defba1ea23b4190a5d2661610c1d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/flawless_victory.ogg using Guid(a1defba1ea23b4190a5d2661610c1d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b339cb03cdc80e63055ba1790c307a7a') in 0.013879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_5.ogg
+  artifactKey: Guid(6c5c12ade10ec4c8ea59627423213732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/round_5.ogg using Guid(6c5c12ade10ec4c8ea59627423213732) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2158394b7d4994f7f6fc6eeef07b1374') in 0.016864 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/time.ogg
+  artifactKey: Guid(2ed7352cacdf241fca5b1127eb447717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/time.ogg using Guid(2ed7352cacdf241fca5b1127eb447717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec3426b5015f371530dc6e87de0571d9') in 0.016644 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/kill_her.ogg
+  artifactKey: Guid(b19d570a002cf46b78d9b5d8359d3ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/kill_her.ogg using Guid(b19d570a002cf46b78d9b5d8359d3ee2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e3b9d18021db95c00f421c21eb094b') in 0.016318 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000445 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/winner.ogg
+  artifactKey: Guid(1bea6b10fdb234ad69be259ec86c1846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/winner.ogg using Guid(1bea6b10fdb234ad69be259ec86c1846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b5ef454ec67e98d4273c628f64ff19') in 0.015955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/player_2.ogg
+  artifactKey: Guid(11f4e1a0cae964e25b41e7bcab6aef92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/player_2.ogg using Guid(11f4e1a0cae964e25b41e7bcab6aef92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d6a94f609ed20627326077e712a2ebc') in 0.016675 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/championship_mode.ogg
+  artifactKey: Guid(ed13e26cafda1431cb3992e7c450d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/championship_mode.ogg using Guid(ed13e26cafda1431cb3992e7c450d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78426ac4934254d582b914f5a7c31433') in 0.011422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000096 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/10.ogg
+  artifactKey: Guid(64a5c58bbbc3443aa8b4325fe532335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/10.ogg using Guid(64a5c58bbbc3443aa8b4325fe532335e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8c850a54dd9b7d158e0d51a103e97c') in 0.017591 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/6.ogg
+  artifactKey: Guid(e740351d27df4443791c38a3a9645d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/6.ogg using Guid(e740351d27df4443791c38a3a9645d02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e076e092e44f82ef40556b09e4927f78') in 0.017165 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/battle_mode.ogg
+  artifactKey: Guid(b7b94f95d114b4a818823b2f96aca7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/battle_mode.ogg using Guid(b7b94f95d114b4a818823b2f96aca7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6658806dcf0de446437b03c24c92b273') in 0.013404 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000084 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/player_1.ogg
+  artifactKey: Guid(25d5cee4566294d2db70b9b23dede058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/player_1.ogg using Guid(25d5cee4566294d2db70b9b23dede058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06a36bcd3db0d7471e66a08fd349988c') in 0.013911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Audio/kenney_voiceover-pack-fighter/Audio/4.ogg
+  artifactKey: Guid(9577fe1c3fb444772bf35f156645fb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio/kenney_voiceover-pack-fighter/Audio/4.ogg using Guid(9577fe1c3fb444772bf35f156645fb5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad298fcdd04448f8a3ee9345e4d38b36') in 0.013001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  2.178 seconds
+Refreshing native plugins compatible for Editor in 4.42 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.664 seconds
+Domain Reload Profiling: 6847ms
+	BeginReloadAssembly (915ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (100ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (394ms)
+	RebuildCommonClasses (129ms)
+	RebuildNativeTypeToScriptingClass (37ms)
+	initialDomainReloadingComplete (87ms)
+	LoadAllAssembliesAndSetupDomain (1012ms)
+		LoadAssemblies (1109ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (201ms)
+			TypeCache.Refresh (35ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (119ms)
+			ResolveRequiredComponents (40ms)
+	FinalizeReload (4666ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1751ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (30ms)
+			SetLoadedEditorAssemblies (15ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (254ms)
+			ProcessInitializeOnLoadAttributes (1206ms)
+			ProcessInitializeOnLoadMethodAttributes (241ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (56ms)
+Refreshing native plugins compatible for Editor in 5.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 7023.
+Memory consumption went from 341.2 MB to 340.7 MB.
+Total: 12.861196 ms (FindLiveObjects: 1.056714 ms CreateObjectMapping: 0.689595 ms MarkObjects: 10.331778 ms  DeleteObjects: 0.781063 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.692 seconds
+Refreshing native plugins compatible for Editor in 3.76 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.835 seconds
+Domain Reload Profiling: 5531ms
+	BeginReloadAssembly (686ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (72ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (262ms)
+	RebuildCommonClasses (108ms)
+	RebuildNativeTypeToScriptingClass (36ms)
+	initialDomainReloadingComplete (68ms)
+	LoadAllAssembliesAndSetupDomain (797ms)
+		LoadAssemblies (877ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (171ms)
+			TypeCache.Refresh (28ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (97ms)
+			ResolveRequiredComponents (38ms)
+	FinalizeReload (3836ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1441ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (12ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (190ms)
+			ProcessInitializeOnLoadAttributes (1019ms)
+			ProcessInitializeOnLoadMethodAttributes (200ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (43ms)
+Refreshing native plugins compatible for Editor in 5.14 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 7028.
+Memory consumption went from 341.3 MB to 340.8 MB.
+Total: 16.364710 ms (FindLiveObjects: 0.970986 ms CreateObjectMapping: 0.739794 ms MarkObjects: 11.660557 ms  DeleteObjects: 2.991345 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.291 seconds
+Refreshing native plugins compatible for Editor in 3.79 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  3.503 seconds
+Domain Reload Profiling: 4794ms
+	BeginReloadAssembly (411ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (29ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (143ms)
+	RebuildCommonClasses (104ms)
+	RebuildNativeTypeToScriptingClass (33ms)
+	initialDomainReloadingComplete (56ms)
+	LoadAllAssembliesAndSetupDomain (686ms)
+		LoadAssemblies (726ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (134ms)
+			TypeCache.Refresh (19ms)
+				TypeCache.ScanAssembly (1ms)
+			ScanForSourceGeneratedMonoScriptInfo (78ms)
+			ResolveRequiredComponents (30ms)
+	FinalizeReload (3504ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1252ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (11ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (170ms)
+			ProcessInitializeOnLoadAttributes (880ms)
+			ProcessInitializeOnLoadMethodAttributes (173ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (39ms)
+Refreshing native plugins compatible for Editor in 5.00 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5887 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 55 unused Assets / (0.5 MB). Loaded Objects now: 7033.
+Memory consumption went from 341.7 MB to 341.2 MB.
+Total: 10.821721 ms (FindLiveObjects: 1.026893 ms CreateObjectMapping: 0.634430 ms MarkObjects: 8.416049 ms  DeleteObjects: 0.742574 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

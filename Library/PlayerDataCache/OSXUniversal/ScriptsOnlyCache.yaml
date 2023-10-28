@@ -8,6 +8,7 @@ ScriptsOnlyBuild:
     - PlatformMovement
     - PlayerController
     - PointBehaviour
+    - WhiteScreenController
     Unity.2D.Animation.Editor.dll:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.Animation.Runtime.dll:
@@ -91,6 +92,10 @@ ScriptsOnlyBuild:
     - UnityEngine.Rendering.Universal.XRSystemData
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.ShaderGraph.Editor.dll:
+    - UnityEditor.ShaderGraph.ShaderGraphProjectSettings
+    Unity.Timeline.Editor.dll:
+    - TimelineProjectSettings
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
@@ -118,6 +123,12 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.Text
     - UnityEngine.UI.Toggle
     - UnityEngine.UI.VerticalLayoutGroup
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.CanvasScaler
+    - UnityEngine.UI.GraphicRaycaster
+    - UnityEngine.UI.Image
   serializedClasses:
     Unity.InputSystem:
     - UnityEngine.InputSystem.InputAction
@@ -311,6 +322,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 8388}
     - Class: 114
+      Script: {instanceID: 8576}
+    - Class: 114
       Script: {instanceID: 8756}
     - Class: 114
       Script: {instanceID: 9120}
@@ -341,6 +354,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11802}
     - Class: 114
+      Script: {instanceID: 11884}
+    - Class: 114
       Script: {instanceID: 11894}
     - Class: 114
       Script: {instanceID: 11978}
@@ -356,6 +371,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 13588}
     - Class: 114
       Script: {instanceID: 13592}
+    - Class: 114
+      Script: {instanceID: 123902}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -418,6 +435,10 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 802}
     - Class: 114
+      Script: {instanceID: 1750}
+    - Class: 114
+      Script: {instanceID: 1790}
+    - Class: 114
       Script: {instanceID: 4142}
     - Class: 114
       Script: {instanceID: 4824}
@@ -438,6 +459,10 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 8510}
     - Class: 114
+      Script: {instanceID: 8576}
+    - Class: 114
+      Script: {instanceID: 8756}
+    - Class: 114
       Script: {instanceID: 9120}
     - Class: 114
       Script: {instanceID: 9622}
@@ -446,9 +471,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10792}
     - Class: 114
+      Script: {instanceID: 11884}
+    - Class: 114
       Script: {instanceID: 13588}
     - Class: 114
       Script: {instanceID: 13592}
+    - Class: 114
+      Script: {instanceID: 123902}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -462,6 +491,12 @@ ScriptsOnlyBuild:
     - Class: 212
       Script: {instanceID: 0}
     - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
     - Class: 19719996
       Script: {instanceID: 0}
@@ -2190,12 +2225,18 @@ ScriptsOnlyBuild:
     className: PlayerController
   - hash:
       serializedVersion: 2
-      Hash: a3914c835e6c329f5074e529b973c0b5
+      Hash: 760ad883806de0e2006dc7f199dfbc6f
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: ElevatorBehavior
+  - hash:
+      serializedVersion: 2
+      Hash: 751e5bae2a317288c2ab58d66687092b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: WhiteScreenController
   platform: 2
   scenePathNames:
   - Assets/Scenes/Floor 0.unity
   - Assets/Scenes/Floor 1.unity
-  playerPath: /Users/aspisov/Documents/isometric 0.3.app
+  playerPath: /Users/aspisov/Documents/isometric 0.3.5.app

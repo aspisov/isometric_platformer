@@ -9,6 +9,8 @@ public class PlayerFallState : BaseState
     public override void EnterState(PlayerController player) {
         player.animator.Play("idle");
         player.sprite.sortingOrder = -2;
+        player.audioSource.clip = player.fallSound;
+        player.audioSource.Play();
     }
 
     public override void UpdateState(PlayerController player) {

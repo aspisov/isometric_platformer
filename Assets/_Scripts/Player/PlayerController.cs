@@ -17,6 +17,7 @@ public class PlayerController : MonoBehaviour
     private Vector2 respawnPos;
 
     public Animator animator;
+    public AudioSource audioSource;
     DisappearingPlatformBehavior[] disappearingPlatforms;
     public SpriteRenderer sprite;
 
@@ -27,6 +28,8 @@ public class PlayerController : MonoBehaviour
     public PlayerFallState fallState = new PlayerFallState();
     public PlayerElevateState elevateState = new PlayerElevateState();
 
+    public AudioClip runSound;
+    public AudioClip fallSound;
 
     public float mass = 0.3f;
     public float drag = 800;
@@ -43,6 +46,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
         sprite = GetComponent<SpriteRenderer>();
         disappearingPlatforms = FindObjectsOfType<DisappearingPlatformBehavior>();
 
@@ -101,6 +105,7 @@ public class PlayerController : MonoBehaviour
     public void SwitchState(BaseState state)
     {
         currentState = state;
+        audioSource.loop = false;
         state.EnterState(this);
     }
 
@@ -184,14 +189,17 @@ public class PlayerController : MonoBehaviour
     }
 
     public void CorrectVelocitiesAndPaths() {
-        float velocity_sum = (float)Math.Sqrt(Math.Pow(velocity.x, 2) + Math.Pow(velocity.y, 2));
+        float velocity_sum;
+        if (velocity.x != 0) {
+            path.y /= 2;
+            velocity_sum = (float)Math.Sqrt(Math.Pow(velocity.x, 2) + Math.Pow(velocity.y / 2, 2));
+        } else {
+            velocity_sum = (float)Math.Sqrt(Math.Pow(velocity.x, 2) + Math.Pow(velocity.y, 2));
+        }
         if (velocity_sum <= velMax) return;
         float k = velMax / velocity_sum;
         velocity *= k;
         path *= k;
-        if (forceX != 0) {
-            path.y /= 2;
-        }
     }
 
     public void PerformMovement() {

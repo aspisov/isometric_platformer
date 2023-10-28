@@ -64,7 +64,9 @@ public class ElevatorBehavior : MonoBehaviour
     void ActivateElevator() {
         isMoving = true;
         player.interactIsPressed = false;
-        // StartCoroutine(mainCamera.ZoomIn());
+        if (type == ElevatorType.fromPlatform) {
+            StartCoroutine(mainCamera.ZoomIn());    
+        }
         player.SwitchState(player.elevateState);
     }
 
