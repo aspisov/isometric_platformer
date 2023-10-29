@@ -36,6 +36,7 @@ public class ElevatorBehavior : MonoBehaviour
     void FixedUpdate()
     {
         if (isMoving) {
+            player.SwitchState(player.elevateState);
             MoveToNextLevel();
             return;
         }
@@ -76,8 +77,8 @@ public class ElevatorBehavior : MonoBehaviour
             if (SceneManager.GetActiveScene().name == "Floor 0") {
                 SceneManager.LoadScene("Floor 1");
             }
-            player.SwitchState(player.idleState);
             isMoving = false;
+            player.SwitchState(player.idleState);
             return;
         }
 

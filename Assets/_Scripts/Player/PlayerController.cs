@@ -57,8 +57,6 @@ public class PlayerController : MonoBehaviour
     private void FixedUpdate()
     {
         currentState.UpdateState(this);    
-
-        adjustFacingDirection();
     }
 
     private void OnMove(InputValue value)
@@ -90,7 +88,7 @@ public class PlayerController : MonoBehaviour
 
     public void SetRespawnPosition(Vector2 pos) => respawnPos = pos;
 
-    private void adjustFacingDirection()
+    public void adjustFacingDirection()
     {
         if (moveDirection.x > 0)
         {
@@ -104,6 +102,7 @@ public class PlayerController : MonoBehaviour
 
     public void SwitchState(BaseState state)
     {
+        if (state == currentState) return;
         currentState = state;
         audioSource.loop = false;
         state.EnterState(this);

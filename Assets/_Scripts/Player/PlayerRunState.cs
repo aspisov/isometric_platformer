@@ -27,5 +27,6 @@ public class PlayerRunState : BaseState
         }
 
         player.MovementLogic();
+        player.adjustFacingDirection();
     }
 }

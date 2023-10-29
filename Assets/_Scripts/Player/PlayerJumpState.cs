@@ -10,5 +10,6 @@ public class PlayerJumpState : BaseState
     
     public override void UpdateState(PlayerController player) {
         player.MovementLogic();
+        player.adjustFacingDirection();
     }
 }
