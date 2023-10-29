@@ -241,6 +241,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -426,6 +430,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
     - Class: 95
@@ -448,8 +456,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 5292}
     - Class: 114
       Script: {instanceID: 6126}
-    - Class: 114
-      Script: {instanceID: 6324}
     - Class: 114
       Script: {instanceID: 7370}
     - Class: 114
@@ -2219,7 +2225,7 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 68c5e5b22c611143eb756221d02bcc87
+      Hash: 3afc2f308810ab808cf62c1ce37e435f
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: PlayerController
@@ -2239,4 +2245,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/Floor 0.unity
   - Assets/Scenes/Floor 1.unity
-  playerPath: /Users/aspisov/Documents/isometric 0.3.5.app
+  playerPath: /Users/aspisov/Documents/isometric 0.4.app
